@@ -52,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "A7 - Ausflug zum Zoo",
+    "title": "A7 - Ausflug zum Zoo",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MmFrYTVzZG11YmM4bmVuNnI5NzZwMzlhYTYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-07-18T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-07-18T13:30:00+02:00"
+    },
+    "created": "2025-07-16T08:32:43.000Z",
+    "updated": "2025-07-16T08:32:43.570Z"
+  },
+  {
+    "image_path": null,
     "alt": "4b - Ausflug zum Zoo",
     "title": "4b - Ausflug zum Zoo",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2025-07-10T10:36:30.000Z",
     "updated": "2025-07-10T10:36:30.946Z"
-  },
-  {
-    "image_path": null,
-    "alt": "6b - Ausflug zum Harry-Potter-Spielplatz",
-    "title": "6b - Ausflug zum Harry-Potter-Spielplatz",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Nm1laTM4czdham5iNnQzZXBtMXBjYnRtajMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-07-21T09:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-07-21T13:30:00+02:00"
-    },
-    "created": "2025-07-10T10:32:46.000Z",
-    "updated": "2025-07-10T10:32:46.171Z"
   }
 ]
