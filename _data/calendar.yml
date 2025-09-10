@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "Tag der offenen Tür für Schulanfänger 2026/27",
+    "title": "Tag der offenen Tür für Schulanfänger 2026/27",
+    "excerpt": "Um Anmeldung wird gebeten unter Sekretariat 030-36 70 95 20",
+    "url": "https://www.google.com/calendar/event?eid=NW0ycGp1OTkxcjBpY2s0ZXA2Z3U0ZG1zbzAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-10-01T09:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-10-01T11:30:00+02:00"
+    },
+    "created": "2025-09-09T09:38:50.000Z",
+    "updated": "2025-09-09T09:38:50.494Z"
+  },
+  {
+    "image_path": null,
     "alt": "Anmeldung Schulanfänger",
     "title": "Anmeldung Schulanfänger",
     "excerpt": null,
@@ -15,6 +32,40 @@
     },
     "created": "2025-06-12T09:21:47.000Z",
     "updated": "2025-06-12T09:21:47.262Z"
+  },
+  {
+    "image_path": null,
+    "alt": "1. GEV",
+    "title": "1. GEV",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=N3EyNGlldWg5YXR1MmVncWphbmNsa2JsOXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-10-09T18:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-10-09T19:30:00+02:00"
+    },
+    "created": "2025-09-09T09:43:27.000Z",
+    "updated": "2025-09-09T09:43:27.540Z"
+  },
+  {
+    "image_path": null,
+    "alt": "BSR-Kieztag Parkplatz",
+    "title": "BSR-Kieztag Parkplatz",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MGhzcGpzNDhwNW9jYXI3aDliN2Y5OG5pZXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2025-10-14",
+      "date_time": null
+    },
+    "end": {
+      "date": "2025-10-15",
+      "date_time": null
+    },
+    "created": "2025-09-09T03:53:06.000Z",
+    "updated": "2025-09-09T03:53:07.039Z"
   },
   {
     "image_path": null,
@@ -49,22 +100,5 @@
     },
     "created": "2025-07-20T10:20:21.000Z",
     "updated": "2025-07-20T10:20:21.277Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
-    "title": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHZ1aHVzMnExZ3ZkbTFrZzFtZzNubW5oOWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2025-11-28",
-      "date_time": null
-    },
-    "end": {
-      "date": "2025-11-29",
-      "date_time": null
-    },
-    "created": "2025-07-16T10:42:23.000Z",
-    "updated": "2025-07-16T10:42:23.190Z"
   }
 ]
