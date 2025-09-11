@@ -11,7 +11,7 @@ author_profile: false
 ## Schulleitung der Grundschule am Brandwerder
 
 *Stephanie Lehmann, Schulleiterin* \\
-*Tanja Esch, Konrektorin*\\
+*N.N., Konrektorin*\\
 *Spandauer Str. 86* \\
 13591 Berlin-Spandau
 
