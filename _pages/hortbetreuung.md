@@ -26,11 +26,6 @@ im Unterricht.
 {% include download_link text="Flyer zu unserer Nachmittagsbetreuung (eFöB)" url="/assets/files/Schulflyer2705.pdf" button="success" %}
 
 # Schließzeiten
-
----
-title: "Schließ- und Ferienzeiten 2025/2026"
-permalink: /schliesszeiten/
-layout: single
 ---
 
 ## Schließ- und Ferienzeiten 2025/2026
