@@ -85,7 +85,7 @@ abwechslungsreiche Spielmöglichkeiten.
 Im Rahmen der VHG wird Ihr Kind im Zeitraum von 7:30 Uhr bis 13:30 Uhr
 verlässlich von uns betreut, selbst dann, wenn es keinen Unterricht hat.
 
-# Ergänzende Förderung und Betreuung (kostenfrei für 1.-2. Klassen, kostenpflichtig für 3.-6. Klassen)
+# Ergänzende Förderung und Betreuung (kostenfrei für 1.-3. Klassen, kostenpflichtig für 4.-6. Klassen)
 {: #hort }
 
 Sie haben die Möglichkeit durch Module weitere Betreuungszeiten zu erwerben.
@@ -104,7 +104,7 @@ Hausaufgaben betreut und nimmt am Mittagessen teil.
 Für die Regelung während der Ferienzeit lesen Sie bitte den Abschnitt
 „[Betreuung in den Ferien](/hortbetreuung/#ferienbetreuung)“.
 
-Die monatlichen Betreuungskosten für 3.-6. Klassen richten sich nach dem Betreuungszeitraum und dem Bruttojahreseinkommen.
+Die monatlichen Betreuungskosten für 4.-6. Klassen richten sich nach dem Betreuungszeitraum und dem Bruttojahreseinkommen.
 
 <!-- {% include outdated.md %} -->
 <!-- Gesetzestext zur Kostenbeiteiligung: http://gesetze.berlin.de/jportal/?quelle=jlink&query=TagEinrKostBetG+BE+Anlage+2&psml=bsbeprod.psml&max=true -->
