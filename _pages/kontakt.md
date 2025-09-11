@@ -38,7 +38,6 @@ einfach eine E-Mail. So können wir uns Zeit für Ihr Anliegen nehmen.
 ## Sekretariat
 {: #sekretariat}
 
-###
 
 * E-Mail: {% include email email='sekretariat@brandwerder.de' %}
 * Telefon: (030) 3670952 - 0
