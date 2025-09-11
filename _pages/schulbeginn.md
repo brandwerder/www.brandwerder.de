@@ -109,7 +109,7 @@ und 54% Schüler haben, die von 13 Erziehern und 24 Lehrkräften betreut werden
 
 <!-- {% include outdated.md %} -->
 
-In der Zeit vom 07. Oktober bis 18. Oktober 2024 melden Sie ihr
+In der Zeit vom 06. Oktober bis 17. Oktober 2025 melden Sie ihr
 schulpflichtiges Kind in der [für Sie zuständigen
 Grundschule](https://www.bildung.berlin.de/Umkreissuche/) an.
 Sie bekommen von uns einen Termin per Post zugeschickt.
@@ -118,6 +118,7 @@ Sie müssen zur Anmeldung folgende Dokumente mitbringen:
 
 * Ihre eigenen Personalpapiere (Ausweis oder Pass)
 * Geburtsurkunde des Kindes
+* persönliches Erscheinen des Kindes 
 
 Sie können entscheiden, ob Ihr Kind am Religionsunterricht (evangelisch/katholisch)
 teilnehmen soll oder nicht.
