@@ -5,42 +5,27 @@ date: 2020-11-12 08:00:00
 category: casablanca
 ---
 
-Liebe Eltern und Bezugspersonen unserer Kinder der Brandwerder Grundschule,
+Liebe Eltern und Erziehungsberechtigte,
 
-wir, Frau Hanisch und Frau Friese, freuen uns, seit diesem Schuljahr als Zweierteam der Schulsozialarbeit an der Schule
-Ihres Kindes tätig zu sein. Unsere Räume befinden sich in der „Insel“, direkt am Haupttor. Unser Arbeitsschwerpunkt
-besteht derzeit darin, Gespräche mit Eltern, Kindern und Lehrer*innen vorzubereiten und durchzuführen, Netzwerkarbeit im
-Kiez zu stärken und präventive Arbeit zu gestalten.
+mein Name ist Angie Bergmann und ich bin seit dem 01. September 2025 als Schulsozialarbeiterin an der Grundschule am Brandwerder tätig.
+Ich freue mich sehr, die Nachfolge von Frau Winger anzutreten und künftig Ihr Kind, sowie Sie als Familie begleiten zu dürfen. Es fand ein intensiver Austausch statt, damit alle wichtigen Informationen für die bestmögliche Begleitung Ihres Kindes vorliegen.
 
-Vielleicht beschäftigt Sie, genau wie uns, die Entwicklung der Covid19-Infektionszahlen und welche Auswirkungen diese
-auf den Schulalltag haben werden. Sollten wir als Schule auf Rot gestuft werden, tritt das Alternativszenario in Kraft,
-welches Sie von Ihren Klassenleiter*innen als Erklärung erhalten haben: Schüler und Schülerinnen ohne Hortvertrag werden
-dann nur noch drei Unterrichtsstunden pro Tag in der Schule sein. Kinder mit Hortvertrag werden zusätzliche 2,5 Stunden
-betreut.
+In meiner Arbeit bin ich für alle Kinder da, ob bei persönlichen Sorgen, schulischen Herausforderungen oder Fragen zum Miteinander in der Klasse.
+Mit verschiedenen Projekten und Angeboten möchte ich dabei helfen, soziale Kompetenzen zu stärken und das Selbstvertrauen der Kinder zu fördern.
 
-In beiden Fällen bedeutet dies aber, dass ein größerer Teil der Schularbeit und Betreuung in Ihrem Zuhause stattfinden
-wird. Darin können wir Sie als Schulsozialarbeit unterstützen!
+Natürlich stehe ich auch Ihnen als Eltern oder Erziehungsberechtigten zur Seite. Wenn Sie Fragen haben oder sich Sorgen machen, im Zusammenhang mit der Schule, der Erziehung oder dem Familienalltag, dürfen Sie sich vertrauensvoll an mich wenden.
+Gern unterstütze ich Sie auch dabei, den Kontakt zu passenden Beratungs- oder Hilfsangeboten herzustellen.
 
+Die Schulsozialarbeit ist ein kostenloses Angebot und alles, was besprochen wird, behandle ich selbstverständlich vertraulich.
+Ich freue mich auf ein persönliches Kennenlernen und auf eine vertrauensvolle Zusammenarbeit mit Ihnen und Ihren Kindern.
 
-Wir bieten an:
+Ich bin von Montag bis Freitag von 8:00-14:00 Uhr vor Ort. 
+Sie finden mich in den Räumlichkeiten der Insel/ Schulbücherei.
+Telefonisch erreichen Sie mich unter 030/367095226 oder 0176/34655724.
+Per E-Mail unter: schulsozialarbeit-brandwerder@casa-ev.de
 
-* Hilfe bei der Strukturierung der Schularbeit zu Hause
-* Beratung und Unterstützung der Eltern
-* Entlastungsarbeit durch z.B. gemeinsame Spaziergänge
-* Konfliktschlichtung im häuslichen Rahmen
-* Angebote nach Ihrem Bedarf
+Ich wünsche Ihnen als Familie, dass Sie gut durch diese besonders herausfordernde Corona-Zeit kommen. Scheuen Sie sich
+bitte nicht, meine Angebote in Anspruch zu nehmen.
 
-Sie können uns in der Regel Montag bis Freitag von 7.30 Uhr bis 15 Uhr in der Insel erreichen.
-
-{% include author-profile.html author='Franziska Hanisch' %}{: .align-left}
-{% include author-profile.html author='Alina Friese' %}{: .align-left}
-<div style="clear:both;"></div>
-
-Sprechzeiten und Kontaktdaten finden Sie [hier](/kontakt/#schulsozialarbeit).
-
-Wir wünschen Ihnen als Familie, dass Sie gut durch diese besonders herausfordernde Corona-Zeit kommen. Scheuen Sie sich
-bitte nicht, unsere Angebote in Anspruch zu nehmen.
-
-Liebe Grüße von der Schulsozialarbeit senden Ihnen
-
-F. Hanisch und A. Friese
+Herzliche Grüße 
+Angie Bergmann
