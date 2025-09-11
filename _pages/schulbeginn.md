@@ -19,16 +19,16 @@ sidebar:
 
 <!-- {% include outdated.md %} -->
 
-Die wichtigsten Daten zum Schuljahr **2025/26** in einem Überblick.
+Die wichtigsten Daten zum Schuljahr **2026/27** in einem Überblick.
 
 | Termine |  Veranstaltung |
 |---|---|
-| | Ihr Kind wurde im Zeitraum vom 1. Oktober 2018 bis zum 30. September 2019 geboren? Herzlichen Glückwunsch zu Ihrem baldigen **Schulkind**. |
-| Montag, 07.10.2024 bis Freitag, 18.10.2024  | {% include icon_link text="<b>Anmeldung</b>" icon="fa-file-text-o" url="#anmeldung" %} der Schulanfänger*innen im Sekretariat. Sie erhalten einen Termin per Post. |
+| | Ihr Kind wurde im Zeitraum vom 1. Oktober 2019 bis zum 30. September 2020 geboren? Herzlichen Glückwunsch zu Ihrem baldigen **Schulkind**. |
+| Montag, 06.10.2025 bis Freitag, 17.10.2025  | {% include icon_link text="<b>Anmeldung</b>" icon="fa-file-text-o" url="#anmeldung" %} der Schulanfänger*innen im Sekretariat. Sie erhalten einen Termin per Post. |
 |  | **Hospitation:** Sie können in der Schule hospitieren und sich mit den Abläufen vertraut machen. Schnuppern Sie gerne in den Schulalltag einer Klasse hinein. Bitte vereinbaren Sie hierzu einen Termin im Sekretariat. |
-| Dienstag, 31.07.2025 | Melden Sie Ihr Kind rechtzeitig zur {% include icon_link text="<b>Hortbetreuung (eFöB)</b>" icon="fa-child" url="#hort" %} an, so dass Ihr Kind am 01.08.2025 von unserem Hort betreut werden kann.  |
-| Samstag, 13.09.2025 | Endlich! Wir feiern die Einschulung in der Sporthalle |
-| Montag, 15.09.2025 | Der **erste Schultag.** |
+| Donnerstag, 31.07.2026 | Melden Sie Ihr Kind rechtzeitig zur {% include icon_link text="<b>Hortbetreuung (eFöB)</b>" icon="fa-child" url="#hort" %} an, so dass Ihr Kind am 01.08.2026 von unserem Hort betreut werden kann.  |
+| Samstag, 29.08.2026 | Endlich! Wir feiern die Einschulung in der Sporthalle |
+| Montag, 31.08.2026 | Der **erste Schultag.** |
 
 {{comment}}<!--
 **TODO**:
