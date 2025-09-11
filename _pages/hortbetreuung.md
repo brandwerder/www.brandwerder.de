@@ -27,8 +27,6 @@ im Unterricht.
 
 # Schließzeiten
 
-<!--
-| 28.11.2025  | Feedbackgespräche |
 ---
 title: "Schließ- und Ferienzeiten 2025/2026"
 permalink: /schliesszeiten/
