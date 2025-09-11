@@ -65,7 +65,6 @@ Eine **Notbetreuung** muss im Vorfeld bei der Koordinierenden Leitung beantragt 
 ### Weihnachtsferien & Schließung (Folgejahr)
 - **23.12.2026 – 01.01.2027** (Schließung)
 
--->
 
 {% include outdated.md %}
 
