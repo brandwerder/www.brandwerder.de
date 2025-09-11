@@ -28,27 +28,53 @@ im Unterricht.
 # Schließzeiten
 
 <!--
-| 22.12.2017 - 02.01.2018 | Weihnachtsschließzeit |
-| 05.02.2018 - 09.02.2018 | Winterferien |
-| 05.03.2018 | Schließtag (Studientag der Schule) |
-| 26.03.2018 - 06.03.2018 | Osterferien |
-| 30.04.2018 | Schließtag |
-| 11.05.2018 | Schließtag |
-| 22.05.2018 | Pfingstferien |
-| 05.07.2018 - 16.08.2018 | Sommerferien verminderter Betrieb (3 Wochen Urlaub für ihr Kind) |
-| 17.08.2018 | Schließtag |
+| 28.11.2025  | Feedbackgespräche |
+---
+title: "Schließ- und Ferienzeiten 2025/2026"
+permalink: /schliesszeiten/
+layout: single
+---
+
+## Schließ- und Ferienzeiten 2025/2026
+
+Hier finden Sie eine Übersicht über die geplanten Ferien- und Schließzeiten.  
+Bitte bedenken Sie, dass es aufgrund von **Studientagen** oder **Streiks** zusätzlich zu Schließungen kommen kann.  
+Eine **Notbetreuung** muss im Vorfeld bei der Koordinierenden Leitung beantragt werden.
+
+---
+
+### Herbstferien
+- **20.10.2025 – 01.11.2025**
+
+### Feedbackgespräche
+- **28.11.2025**
+
+### Weihnachtsferien & Schließung
+- **22.12.2025 – 02.01.2026** (Schließung)
+
+### Winterferien
+- **02.02.2026 – 06.02.2026**
+
+### Osterferien
+- **30.03.2026 – 10.04.2026**
+
+### Einzeltage Schließung
+- **15.05.2026** (Schließung)  
+- **26.05.2026** (Schließung)
+
+### Sommerferien
+- **09.07.2026 – 21.08.2026** (Ferienzeit, davon **3 Wochen verpflichtender Urlaub** für Ihr Kind)  
+- **19.08.2026 – 21.08.2026** (Schließung)
+
+### Herbstferien (Folgejahr)
+- **19.10.2026 – 31.10.2026**
+
+### Weihnachtsferien & Schließung (Folgejahr)
+- **23.12.2026 – 01.01.2027** (Schließung)
+
 -->
 
 {% include outdated.md %}
-
-| 23.08.2023 | Studientag geschlossen |
-| 02.10.2023 | Schließung / Brückentag |
-| 27.12.2023 - 01.01.2024 | Weihnachtsschließzeit |
-| 10.05.2024 | Schließung / Brückentag |
-| 18.07.2024 - 30.08.2024 | Sommerferien (3 Wochen Urlaub für jedes Kind) |
-| 04.10.2024 | Schließung / Brückentag |
-| 23.12.2024 - 01.01.2025 | Weihnachtsschließzeit |
-
 
 # eFöB-Gebäude und Außengelände
 
