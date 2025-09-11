@@ -17,16 +17,6 @@ ist diese Seite trotzdem öffentlich zugänglich, aber mag nicht den allgemeinen
 Qualitätsanspruch der restlichen Seiten entsprechen. Vielen Dank!
 {: .notice--warning}
 
-## Mailinglisten
-
-* Allgemeine Informationen zu Mailinglisten (für die Eltern) <br>
-  {% include download_link text="Flyer über die Mailinglisten für die Eltern (pdf)" url="/assets/files/gev_mailingliste_flyer.pdf" button="success" %}
-* Wie man sich auf der Verwaltungsplatform der Mailinglisten registriert, sich anmeldet und die Klassenmailingliste findet <br>
-  {% include download_link text="Anleitung zur Registrierung, Anmeldung und eigenen Liste (pdf)" url="/assets/files/gev_mailingliste_1_anmelden.pdf" button="success" %}
-* Wie man Eltern in eine Mailingliste einträgt und wie man Sie wieder austrägt <br>
-  {% include download_link text="Anleitung zum Verwalten der Eltern in einer Liste (pdf)" url="/assets/files/gev_mailingliste_2_eltern_verwalten.pdf" button="success" %}
-* Wie man E-Mails, die zurückgehalten wurden, freigibt oder löscht
-  <br>(Die Anleitung wird noch erarbeitet)
 
 <!--
 # <span>{% include icon_text icon="fa-male" %}{% include icon_text icon="fa-female" %}&nbsp;</span>SanitärAG
