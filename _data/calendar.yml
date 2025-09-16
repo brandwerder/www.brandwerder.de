@@ -35,6 +35,23 @@
   },
   {
     "image_path": null,
+    "alt": "1. Gesamtkonferenz",
+    "title": "1. Gesamtkonferenz",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=bnRpZWptcGdnY3NjYTlkOGY1YW84ZThjbmMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-10-07T16:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-10-07T18:00:00+02:00"
+    },
+    "created": "2025-09-15T16:53:49.000Z",
+    "updated": "2025-09-15T16:53:49.312Z"
+  },
+  {
+    "image_path": null,
     "alt": "1. GEV",
     "title": "1. GEV",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2025-05-04T09:31:50.000Z",
     "updated": "2025-05-04T09:31:50.697Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Oberschulmesse im Rathaus Spandau",
-    "title": "Oberschulmesse im Rathaus Spandau",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWJyc2JvMGU0MzlzbTQ4cmpvbWQ5bXRnY28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-10-16T15:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-10-16T18:00:00+02:00"
-    },
-    "created": "2025-07-20T10:20:21.000Z",
-    "updated": "2025-07-20T10:20:21.277Z"
   }
 ]
