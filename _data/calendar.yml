@@ -18,6 +18,23 @@
   },
   {
     "image_path": null,
+    "alt": "Wandertag",
+    "title": "Wandertag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=aHRlbWU0NnB0MXQ3YW1uN21uMGM2bDUzM28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2025-10-02",
+      "date_time": null
+    },
+    "end": {
+      "date": "2025-10-03",
+      "date_time": null
+    },
+    "created": "2025-09-24T08:37:53.000Z",
+    "updated": "2025-09-24T08:37:53.944Z"
+  },
+  {
+    "image_path": null,
     "alt": "Anmeldung Schulanfänger",
     "title": "Anmeldung Schulanfänger",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2025-09-09T03:53:06.000Z",
     "updated": "2025-09-09T03:53:07.039Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Oberschulmesse im Rathaus Spandau, nachmittags",
-    "title": "Oberschulmesse im Rathaus Spandau, nachmittags",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=ZG9uNWg2bmdiZmhiY2oxNDQydHJpbHFuY2MgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2025-10-16",
-      "date_time": null
-    },
-    "end": {
-      "date": "2025-10-17",
-      "date_time": null
-    },
-    "created": "2025-05-04T09:31:50.000Z",
-    "updated": "2025-05-04T09:31:50.697Z"
   }
 ]
