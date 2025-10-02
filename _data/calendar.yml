@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Tag der offenen Tür für Eltern der Schulanfänger 2026/27",
-    "title": "Tag der offenen Tür für Eltern der Schulanfänger 2026/27",
-    "excerpt": "Um Anmeldung wird gebeten unter Sekretariat 030-36 70 95 20",
-    "url": "https://www.google.com/calendar/event?eid=NW0ycGp1OTkxcjBpY2s0ZXA2Z3U0ZG1zbzAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-10-01T09:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-10-01T11:30:00+02:00"
-    },
-    "created": "2025-09-09T09:38:50.000Z",
-    "updated": "2025-09-18T16:50:07.965Z"
-  },
-  {
-    "image_path": null,
     "alt": "Wandertag",
     "title": "Wandertag",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2025-09-09T03:53:06.000Z",
     "updated": "2025-09-09T03:53:07.039Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Oberschulmesse im Rathaus Spandau, nachmittags",
+    "title": "Oberschulmesse im Rathaus Spandau, nachmittags",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=ZG9uNWg2bmdiZmhiY2oxNDQydHJpbHFuY2MgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2025-10-16",
+      "date_time": null
+    },
+    "end": {
+      "date": "2025-10-17",
+      "date_time": null
+    },
+    "created": "2025-05-04T09:31:50.000Z",
+    "updated": "2025-05-04T09:31:50.697Z"
   }
 ]
