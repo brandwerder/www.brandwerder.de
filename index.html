@@ -23,6 +23,7 @@ header:
     url: /elternbriefe/
 ---
 
+```html
 <div class="feature__wrapper">
 
   <!-- Start in die Schule -->
@@ -33,14 +34,11 @@ header:
           <img src="{{ '/assets/images/feature-einschulung.jpg' | relative_url }}" alt="Schulstart">
         </a>
       </div>
-
       <div class="archive__item-body">
         <h2 class="archive__item-title">Start in die Schule</h2>
         <div class="archive__item-excerpt">
           <p>
-            Die nächste wichtige Station Ihres Kindes: „Schule“. Was erwartet
-            Sie? Was ist zu tun? Und vor allem, was können Sie erwarten? Erfahren
-            Sie alles Wichtige zum Thema Schulanfang.
+            Die nächste wichtige Station Ihres Kindes: „Schule“. Was erwartet Sie? Was ist zu tun? Und vor allem, was können Sie erwarten? Erfahren Sie alles Wichtige zum Thema Schulanfang.
           </p>
         </div>
         <p>
@@ -60,7 +58,6 @@ header:
           <img src="{{ '/assets/images/mm-home-page-feature.jpg' | relative_url }}" alt="Über die Schule">
         </a>
       </div>
-
       <div class="archive__item-body">
         <h2 class="archive__item-title">Über die Schule</h2>
         <div class="archive__item-excerpt">
@@ -81,6 +78,30 @@ header:
     </div>
   </div>
 
+  <!-- Schulsozialarbeit direkt daneben -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/schule/#schulsozialarbeit' | relative_url }}">
+          <img src="https://psflamatt.ch/wp-content/uploads/2024/02/Unbenannt-1024x971.png"
+               alt="Schulsozialarbeit"
+               style="max-width: 100%; height: auto;">
+        </a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Schulsozialarbeit</h2>
+        <div class="archive__item-excerpt">
+          <p>Wenn Sie Unterstützung benötigen, können Sie sich jederzeit an unsere Schulsozialarbeiterin wenden!</p>
+        </div>
+        <p>
+          <a href="{{ '/schule/#schulsozialarbeit' | relative_url }}" class="btn btn--primary">
+            <i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
   <!-- Mittagessen - Anmeldung -->
   <div class="feature__item">
     <div class="archive__item">
@@ -89,7 +110,6 @@ header:
           <img src="{{ '/assets/images/creativecommons-mittagessen.jpg' | relative_url }}" alt="Mittagessen">
         </a>
       </div>
-
       <div class="archive__item-body">
         <h2 class="archive__item-title">Mittagessen - Anmeldung</h2>
         <div class="archive__item-excerpt">
@@ -106,80 +126,33 @@ header:
     </div>
   </div>
 
-  <!-- Schulsozialarbeit -->
+  <!-- Förderverein -->
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <a href="{{ '/schule/#schulsozialarbeit' | relative_url }}">
-          <img src="https://psflamatt.ch/wp-content/uploads/2024/02/Unbenannt-1024x971.png"
-               alt="Schulsozialarbeit"
-               style="max-width: 100%; height: auto;">
+        <a href="https://www.foerderverein-brandwerder.de">
+          <img src="{{ '/assets/images/feature-foerderverein.jpg' | relative_url }}" alt="Förderverein">
         </a>
       </div>
-
       <div class="archive__item-body">
-        <h2 class="archive__item-title">Schulsozialarbeit</h2>
+        <h2 class="archive__item-title">Eltern gestalten mit!</h2>
         <div class="archive__item-excerpt">
-          <p>Wenn Sie Unterstützung benötigen, können Sie sich jederzeit an unsere Schulsozialarbeiterin wenden!</p>
+          <p>
+            Wichtig sind nicht nur die Schüler an unserer Schule, sondern auch die Eltern, Großeltern oder Bekannte. So werden Elternaktionen, Sommer-/ Winterfeste und weitere Aktionen von der Elternschaft – z. B. durch den Förderverein oder die Elternvertreter – organisiert.
+          </p>
         </div>
         <p>
-          <a href="{{ '/schule/#schulsozialarbeit' | relative_url }}" class="btn btn--primary">
-            <i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren
+          <a href="https://www.foerderverein-brandwerder.de" class="btn btn--success">
+            <i class='fa fa-external-link'>&nbsp;&nbsp;</i>Zur Seite des Fördervereins
           </a>
         </p>
       </div>
     </div>
   </div>
 
-                <p><a href="{{ '/hortbetreuung/#mittagessen' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
-            </div>
-        </div>
-    </div>
-
-    <div class="feature__item">
-        <div class="archive__item">
-            <div class="archive__item-teaser">
-                <a href="{{ '/hortbetreuung/' | relative_url }}"><img src= "{{ '/assets/images/feature-hort.jpg' | relative_url }}" alt="Hortbetreuung"></a>
-            </div>
-
-            <div class="archive__item-body">
-                <h2 class="archive__item-title">Ergänzende Förderung und Betreuung</h2>
-                <div class="archive__item-excerpt">
-                    <p>
-                        Ihr Kind wird in der Schulzeit zwischen 7:30 - 13:30 Uhr von uns
-                        verlässlich betreut. Für Familien mit mehr Betreuungsbedarf gibt es einen
-                        Ganztagsbetrieb von 6:00 bis 18:00 Uhr.
-                    </p>
-                </div>
-
-                <p><a href="{{ '/hortbetreuung/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
-            </div>
-        </div>
-    </div>
-
-    <div class="feature__item">
-        <div class="archive__item">
-            <div class="archive__item-teaser">
-                <a href="https://www.foerderverein-brandwerder.de"><img src= "{{ '/assets/images/feature-foerderverein.jpg' | relative_url }}" alt="Förderverein"></a>
-            </div>
-
-            <div class="archive__item-body">
-                <h2 class="archive__item-title">Eltern gestalten mit!</h2>
-                <div class="archive__item-excerpt">
-                    <p>
-                        Wichtig sind nicht nur die Schüler an unserer Schule, sondern auch
-                        die Eltern, Großeltern oder Bekannte. So werden Elternaktionen, Sommer-/ Winterfeste und weitere Sachen von der
-                        Elternschaft z.B. durch den Förderverein oder die Elternvertreter
-                        organisiert.
-                    </p>
-                </div>
-
-                <p><a href="https://www.foerderverein-brandwerder.de" class="btn btn--success"><i class='fa fa-external-link'>&nbsp;&nbsp;</i>Zur Seite des Fördervereins</a></p>
-            </div>
-        </div>
-    </div>
-
 </div>
+```
+
 
 <h1>50 Jahre Brandwerder - Jubiläumsfilm:</h1>
 {% include video id="1Mt1Aj-mrel_kbzZlAw38W0ha4OF-dEJ_" provider="gdrive" %}
