@@ -56,7 +56,7 @@ einfach eine E-Mail. So können wir uns Zeit für Ihr Anliegen nehmen.
 {% comment %}
 
 ## Schulsozialarbeit Frau Bergmann
-{: #schulsozialarbeit}
+
 Wie erreichen Sie mich?
 •	Name: 		Frau Bergmann 
 •	Raum:		neben der Schulbücherei 
