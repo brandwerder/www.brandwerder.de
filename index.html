@@ -23,31 +23,30 @@ header:
     url: /elternbriefe/
 ---
 
-<style>
-/* Feature-Kacheln auf gleiche Höhe bringen */
+/* --- Layout / gleiche Kachel-Höhe (wie vorher) --- */
 .feature__wrapper {
   display: flex;
-  flex-wrap: wrap;         /* Kacheln umbrechen, wenn nötig */
-  gap: 20px;               /* Abstand zwischen den Kacheln */
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .feature__item {
-  flex: 1 1 300px;         /* jede Kachel mindestens 300px, flexibel */
+  flex: 1 1 300px;
   display: flex;
-  flex-direction: column;  /* Inhalt vertikal anordnen */
+  flex-direction: column;
 }
 
 .archive__item {
   display: flex;
-  flex-direction: column;  /* Bild + Text übereinander */
-  height: 100%;            /* gleiche Höhe */
+  flex-direction: column;
+  height: 100%;
 }
 
 .archive__item-body {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Titel oben ausrichten */
-  flex: 1;                     /* Textbereich füllt Resthöhe */
+  justify-content: flex-start;
+  flex: 1;
 }
 
 .archive__item-title {
@@ -55,14 +54,39 @@ header:
   font-size: 1.25rem;
 }
 
-  .archive__item-teaser img {
-  max-height: 200px; /* Alle Bilder maximal 200px hoch */
-  width: auto;        /* Breite proportional */
-  display: block;
-  margin: 0 auto;     /* Zentrieren */
+/* --- WICHTIG: alle Teaser-Bereiche gleich hoch machen --- */
+.archive__item-teaser {
+  height: 200px;              /* <-- gleiche Höhe für alle Kachel-Bilder */
+  display: flex;
+  align-items: center;        /* Bild vertikal zentrieren */
+  justify-content: center;    /* Bild horizontal zentrieren */
+  overflow: hidden;           /* schneidet bei object-fit: cover */
+  padding: 10px;              /* optional, Abstand um Bild */
+  box-sizing: border-box;
 }
 
-</style>
+.archive__item-teaser img {
+  max-height: 100%;           /* Bild füllt die Teaser-Höhe (proportional) */
+  width: auto;                /* Breite proportional */
+  display: block;
+  object-fit: contain;        /* sicherstellen: Bild wird nicht verzerrt */
+}
+
+/* Wenn du ein "cover"-Verhalten willst (Bild füllt den Bereich, kann beschnitten werden):
+.archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+*/
+
+/* --- Mobile Anpassung: geringere Teaser-Höhe auf kleinen Bildschirmen --- */
+@media (max-width: 767px) {
+  .archive__item-teaser {
+    height: 140px; /* kleineres Maß für Smartphones */
+  }
+}
+
 
 <div class="feature__wrapper">
 
