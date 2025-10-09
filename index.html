@@ -23,69 +23,142 @@ header:
     url: /elternbriefe/
 ---
 
-/* --- Layout / gleiche Kachel-Höhe (wie vorher) --- */
+<style>
+/* Feature-Kacheln auf gleiche Höhe bringen */
 .feature__wrapper {
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  flex-wrap: wrap;         /* Kacheln umbrechen, wenn nötig */
+  gap: 20px;               /* Abstand zwischen den Kacheln */
 }
 
 .feature__item {
-  flex: 1 1 300px;
+  flex: 1 1 300px;         /* jede Kachel mindestens 300px, flexibel */
   display: flex;
-  flex-direction: column;
+  flex-direction: column;  /* Inhalt vertikal anordnen */
 }
 
 .archive__item {
   display: flex;
-  flex-direction: column;
-  height: 100%;
+  flex-direction: column;  /* Bild + Text übereinander */
+  height: 100%;            /* gleiche Höhe */
 }
 
 .archive__item-body {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  flex: 1;
+  justify-content: flex-start; /* Titel oben ausrichten */
+  flex: 1;                     /* Textbereich füllt Resthöhe */
 }
 
 .archive__item-title {
   margin-bottom: 10px;
   font-size: 1.25rem;
 }
+</style>
 
-/* --- WICHTIG: alle Teaser-Bereiche gleich hoch machen --- */
-.archive__item-teaser {
-  height: 200px;              /* <-- gleiche Höhe für alle Kachel-Bilder */
-  display: flex;
-  align-items: center;        /* Bild vertikal zentrieren */
-  justify-content: center;    /* Bild horizontal zentrieren */
-  overflow: hidden;           /* schneidet bei object-fit: cover */
-  padding: 10px;              /* optional, Abstand um Bild */
-  box-sizing: border-box;
-}
+<div class="feature__wrapper">
 
-.archive__item-teaser img {
-  max-height: 100%;           /* Bild füllt die Teaser-Höhe (proportional) */
-  width: auto;                /* Breite proportional */
-  display: block;
-  object-fit: contain;        /* sicherstellen: Bild wird nicht verzerrt */
-}
+  <!-- Start in die Schule -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/schulbeginn/' | relative_url }}"><img src="{{ '/assets/images/feature-einschulung.jpg' | relative_url }}" alt="Schulstart"></a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Start in die Schule</h2>
+        <div class="archive__item-excerpt">
+          <p>Die nächste wichtige Station Ihres Kindes: „Schule“. Was erwartet Sie? Was ist zu tun? Und vor allem, was können Sie erwarten? Erfahren Sie alles Wichtige zum Thema Schulanfang.</p>
+        </div>
+        <p><a href="{{ '/schulbeginn/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+      </div>
+    </div>
+  </div>
 
-/* Wenn du ein "cover"-Verhalten willst (Bild füllt den Bereich, kann beschnitten werden):
-.archive__item-teaser img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-*/
+  <!-- Über die Schule -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/schule/' | relative_url }}"><img src="{{ '/assets/images/mm-home-page-feature.jpg' | relative_url }}" alt="Über die Schule"></a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Über die Schule</h2>
+        <div class="archive__item-excerpt">
+          <p>Sie haben Fragen zu <a href='/schule/#juel_konzept' class='btn btn--success btn--small'>JÜL</a>, den Unterrichtszeiten, was Sie tun müssen, falls Ihr Kind krank ist oder was für den Sportunterricht wichtig ist? Vielleicht möchten Sie sich auch über unsere Schulsozialarbeit informieren.</p>
+        </div>
+        <p><a href="{{ '/schule/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+      </div>
+    </div>
+  </div>
 
-/* --- Mobile Anpassung: geringere Teaser-Höhe auf kleinen Bildschirmen --- */
-@media (max-width: 767px) {
-  .archive__item-teaser {
-    height: 140px; /* kleineres Maß für Smartphones */
-  }
-}
+  <!-- Schulsozialarbeit -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/schule/schulsozialarbeit/' | relative_url }}">
+          <img src="https://psflamatt.ch/wp-content/uploads/2024/02/Unbenannt-1024x971.png"
+               alt="Schulsozialarbeit"
+               style="max-width: 250px; height: auto; display: block; margin: 0 auto;">
+        </a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Schulsozialarbeit</h2>
+        <div class="archive__item-excerpt">
+          <p>Unsere Schulsozialarbeit bietet Unterstützung und Beratung für Schülerinnen, Schüler und Eltern bei schulischen oder persönlichen Anliegen.</p>
+        </div>
+        <p><a href="{{ '/schule/schulsozialarbeit/' | relative_url }}" class="btn btn--primary"><i class="fa fa-info">&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mittagessen -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/hortbetreuung/#mittagessen' | relative_url }}"><img src="{{ '/assets/images/creativecommons-mittagessen.jpg' | relative_url }}" alt="Mittagessen"></a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Mittagessen - Anmeldung</h2>
+        <div class="archive__item-excerpt">
+          <p>Ihr Kind kann am kostenlosen Mittagessen teilnehmen, sobald es dafür angemeldet wurde.</p>
+        </div>
+        <p><a href="{{ '/hortbetreuung/#mittagessen' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hortbetreuung -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="{{ '/hortbetreuung/' | relative_url }}"><img src="{{ '/assets/images/feature-hort.jpg' | relative_url }}" alt="Hortbetreuung"></a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Ergänzende Förderung und Betreuung</h2>
+        <div class="archive__item-excerpt">
+          <p>Ihr Kind wird in der Schulzeit zwischen 7:30 - 13:30 Uhr von uns verlässlich betreut. Für Familien mit mehr Betreuungsbedarf gibt es einen Ganztagsbetrieb von 6:00 bis 18:00 Uhr.</p>
+        </div>
+        <p><a href="{{ '/hortbetreuung/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Förderverein -->
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <a href="https://www.foerderverein-brandwerder.de"><img src="{{ '/assets/images/feature-foerderverein.jpg' | relative_url }}" alt="Förderverein"></a>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Eltern gestalten mit!</h2>
+        <div class="archive__item-excerpt">
+          <p>Wichtig sind nicht nur die Schüler an unserer Schule, sondern auch die Eltern, Großeltern oder Bekannte. So werden Elternaktionen, Sommer-/Winterfeste und weitere Aktivitäten von der Elternschaft z. B. durch den Förderverein oder die Elternvertreter organisiert.</p>
+        </div>
+        <p><a href="https://www.foerderverein-brandwerder.de" class="btn btn--success"><i class='fa fa-external-link'>&nbsp;&nbsp;</i>Zur Seite des Fördervereins</a></p>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 
 <div class="feature__wrapper">
