@@ -55,8 +55,15 @@ einfach eine E-Mail. So können wir uns Zeit für Ihr Anliegen nehmen.
 
 {% comment %}
 
-## Schulsozialarbeit
+## Schulsozialarbeit Frau Bergmann
 {: #schulsozialarbeit}
+Wie erreichen Sie mich?
+•	Name: 		Frau Bergmann 
+•	Raum:		neben der Schulbücherei 
+•	Sprechzeiten: 	Montag – Freitag 8:00–14:00 Uhr
+•	Telefon:	030/367095226 oder 0176/34655724
+•	E-Mail: 	schulsozialarbeit-brandwerder@casa-ev.de
+
 
 ### Peter Krauthäuser
 
