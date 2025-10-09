@@ -30,34 +30,62 @@ header:
                 <a href="{{ '/schulbeginn/' | relative_url }}"><img src= "{{ '/assets/images/feature-einschulung.jpg' | relative_url }}" alt="Schulstart"></a>
             </div>
 
-        
-<section id="schulsozialarbeit" style="margin-top: 40px;">
-  <div class="container">
-    <div class="row align-items-start">
-      
-      <!-- Bild links -->
-      <div class="col-md-6 text-center">
-        <img src="https://psflamatt.ch/wp-content/uploads/2024/02/Unbenannt-1024x971.png"
-             alt="Schulsozialarbeit"
-             style="max-width: 250px; width: 100%; height: auto; margin-bottom: 15px;">
-      </div>
-      
-      <!-- Text rechts -->
-      <div class="col-md-6">
-        <h3>Schulsozialarbeit</h3>
-        <p>Wenn Sie Unterstützung benötigen, können Sie sich jederzeit an unsere Schulsozialarbeiterin wenden!</p>
-        <p>
-          <a href="{{ '/schule/' | relative_url }}" class="btn btn--primary">
-            <i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren
-          </a>
-        </p>
-      </div>
+            <div class="archive__item-body">
+                <h2 class="archive__item-title">Start in die Schule</h2>
+                <div class="archive__item-excerpt">
+                    <p>
+                        Die nächste wichtige Station Ihres Kindes: „Schule“. Was erwartet
+                        Sie? Was ist zu tun? Und vor allem, was können Sie erwarten? Erfahren
+                        Sie alles Wichtige zum Thema Schulanfang.
+                    </p>
+                </div>
 
+                <p><a href="{{ '/schulbeginn/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+            </div>
+        </div>
     </div>
-  </div>
-</section>
 
-</section>
+    <div class="feature__item">
+        <div class="archive__item">
+            <div class="archive__item-teaser">
+                <a href="{{ '/elternbriefe/' | relative_url }}"><img src= "{{ '/assets/images/feature-elternbriefe.jpg' | relative_url }}" alt="Aktuelle Informationen"></a>
+            </div>
+
+            <div class="archive__item-body">
+                <h2 class="archive__item-title">Aktuelle Informationen</h2>
+                <div class="archive__item-excerpt">
+                    <p>Hier finden Sie aktuelle Informationen & Mitteilungen der Schulleitung.</p>
+                    <p>Elternbrief: „<b><a style="hyphens: auto;" href="{{ site.posts.first.url | absolute_url }}">{{ site.posts.first.title | truncate: 80 }}</a></b>“ vom <b>{{ site.posts.first.date | date: "%d.%m.%Y" }}</b></p>
+                </div>
+
+                <p><a href="{{ '/elternbriefe/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="feature__item">
+        <div class="archive__item">
+            <div class="archive__item-teaser">
+                <a href="{{ '/schule/' | relative_url }}"><img src= "{{ '/assets/images/mm-home-page-feature.jpg' | relative_url }}" alt="Über die Schule"></a>
+            </div>
+
+            <div class="archive__item-body">
+                <h2 class="archive__item-title">Über die Schule</h2>
+                <div class="archive__item-excerpt">
+                    <p>
+                    Sie haben Fragen zu
+                    <a href='/schule/#juel_konzept' class='btn btn--success btn--small'>JÜL</a>, den Unterrichtszeiten,
+                    was Sie tun müssen, falls Ihr Kind krank ist oder was für den Sportunterricht wichtig
+                    ist? Vielleicht möchten Sie sich auch über unsere Schulsozialarbeit
+                    informieren.
+                    </p>
+                </div>
+
+                <p><a href="{{ '/schule/' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
+            </div>
+        </div>
+    </div>
+
     <div class="feature__item">
         <div class="archive__item">
             <div class="archive__item-teaser">
@@ -71,6 +99,7 @@ header:
                     Ihr Kind kann am kostenlosen Mittagessen teilnehmen, sobald es dafür angemeldet wurde.
                     </p>
                 </div>
+
 
                 <p><a href="{{ '/hortbetreuung/#mittagessen' | relative_url }}" class="btn btn--primary"><i class='fa fa-info'>&nbsp;&nbsp;</i>Mehr erfahren</a></p>
             </div>
