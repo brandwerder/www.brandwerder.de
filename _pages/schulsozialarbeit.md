@@ -1,25 +1,3 @@
----
-
-layout: single
-title: "Schulsozialarbeit"
-permalink: /schule/schulsozialarbeit/
-author_profile: false
-header:
-overlay_image: /assets/images/schulsozialarbeit-header.jpg
-overlay_filter: 0.3
-caption: "Schulsozialarbeit an der Grundschule Brandwerder"
------------------------------------------------------------
-
-<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; margin-bottom:2em; gap:1.5em;">
-  <img src="/assets/images/frau-bergmann.jpg" alt="Frau Bergmann" style="max-width:200px; border-radius:50%; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-  <div style="max-width:500px;">
-    <p><strong>Schulsozialarbeit ist ein kostenfreies Angebot direkt an der Schule.</strong><br>
-    Ich begleite Kinder, Eltern und Lehrkräfte bei Fragen, Sorgen und Schwierigkeiten – vertraulich, unterstützend und auf Augenhöhe.</p>
-  </div>
-</div>
-
----
-
 ## 🌼 Wann können Sie oder Ihr Kind zu mir kommen?
 
 * Wenn Ihr Kind Sorgen hat, traurig ist oder sich zurückzieht
