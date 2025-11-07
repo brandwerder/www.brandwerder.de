@@ -18,19 +18,87 @@
   },
   {
     "image_path": null,
-    "alt": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
-    "title": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
+    "alt": "Ausflug 4b - Atze Theater \"Kinderrechte - Gewalt\"",
+    "title": "Ausflug 4b - Atze Theater \"Kinderrechte - Gewalt\"",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHZ1aHVzMnExZ3ZkbTFrZzFtZzNubW5oOWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=MGtoYWRuM3IwYXAxZWE5cTcxZWplc2NvNXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2025-11-28",
-      "date_time": null
+      "date": null,
+      "date_time": "2025-11-11T08:00:00+01:00"
     },
     "end": {
-      "date": "2025-11-29",
-      "date_time": null
+      "date": null,
+      "date_time": "2025-11-11T13:00:00+01:00"
     },
-    "created": "2025-07-16T10:42:23.000Z",
-    "updated": "2025-07-16T10:42:23.190Z"
+    "created": "2025-11-06T13:48:33.000Z",
+    "updated": "2025-11-06T13:48:34.032Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A3 - Ausflug Zitadelle",
+    "title": "A3 - Ausflug Zitadelle",
+    "excerpt": "Kuntze\nEntlassungsort: Schule",
+    "url": "https://www.google.com/calendar/event?eid=MjJmMmpwaTczMWY4ajFmODY2aGwwMHBlMWggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-11-11T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-11-11T13:00:00+01:00"
+    },
+    "created": "2025-11-06T11:18:17.000Z",
+    "updated": "2025-11-06T11:18:17.923Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 4b - Mauertour Bernauer Straße",
+    "title": "Ausflug 4b - Mauertour Bernauer Straße",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NmJqdnI0OTRzYnBldTZxYmtzNjF0dDV0aWEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-11-12T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-11-12T13:30:00+01:00"
+    },
+    "created": "2025-11-06T13:49:26.000Z",
+    "updated": "2025-11-06T13:49:27.078Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 6c - Atze Theater \"No Planet B\"",
+    "title": "Ausflug 6c - Atze Theater \"No Planet B\"",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=M2s4M2JhNmxmNnNhNjdoZGN2dW8yNjVxZHAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-11-21T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-11-21T12:30:00+01:00"
+    },
+    "created": "2025-11-06T13:58:37.000Z",
+    "updated": "2025-11-06T13:58:37.405Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 6b - Bundestag",
+    "title": "Ausflug 6b - Bundestag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NWhuczB2cTM3dmRndmU3N2ExcmIyODFzaWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-11-21T09:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-11-21T15:00:00+01:00"
+    },
+    "created": "2025-11-06T11:19:11.000Z",
+    "updated": "2025-11-06T11:19:11.345Z"
   }
 ]
