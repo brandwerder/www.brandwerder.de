@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Ausflug 4b - Atze Theater \"Kinderrechte - Gewalt\"",
-    "title": "Ausflug 4b - Atze Theater \"Kinderrechte - Gewalt\"",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGtoYWRuM3IwYXAxZWE5cTcxZWplc2NvNXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-11-11T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-11-11T13:00:00+01:00"
-    },
-    "created": "2025-11-06T13:48:33.000Z",
-    "updated": "2025-11-06T13:48:34.032Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A3 - Ausflug Zitadelle",
-    "title": "A3 - Ausflug Zitadelle",
-    "excerpt": "Kuntze\nEntlassungsort: Schule",
-    "url": "https://www.google.com/calendar/event?eid=MjJmMmpwaTczMWY4ajFmODY2aGwwMHBlMWggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-11-11T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-11-11T13:00:00+01:00"
-    },
-    "created": "2025-11-06T11:18:17.000Z",
-    "updated": "2025-11-06T11:18:17.923Z"
-  },
-  {
-    "image_path": null,
     "alt": "Ausflug 4b - Mauertour Bernauer Straße",
     "title": "Ausflug 4b - Mauertour Bernauer Straße",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2025-11-06T13:58:25.000Z",
     "updated": "2025-11-06T13:58:25.357Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
+    "title": "Tag der Feedbackgespräche - Unterrichtsfrei für alle Kinder",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NHZ1aHVzMnExZ3ZkbTFrZzFtZzNubW5oOWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2025-11-28",
+      "date_time": null
+    },
+    "end": {
+      "date": "2025-11-29",
+      "date_time": null
+    },
+    "created": "2025-07-16T10:42:23.000Z",
+    "updated": "2025-07-16T10:42:23.190Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug A3 - Paint your Style",
+    "title": "Ausflug A3 - Paint your Style",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=M3FoYWxzaGY2azk0b3BtNzM0c25pdm81aWQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-12-04T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-12-04T12:45:00+01:00"
+    },
+    "created": "2025-11-06T11:20:31.000Z",
+    "updated": "2025-11-06T11:20:31.439Z"
   }
 ]
