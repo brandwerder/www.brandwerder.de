@@ -15,5 +15,56 @@
     },
     "created": "2025-11-06T11:22:07.000Z",
     "updated": "2025-11-06T11:22:07.359Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 5b - Kunstbastion Zitadelle Spandau",
+    "title": "Ausflug 5b - Kunstbastion Zitadelle Spandau",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MWF1MGQ5cHV0YXNzb3AyZ29vNzdka2w5ZTUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-12-16T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-12-16T13:30:00+01:00"
+    },
+    "created": "2025-12-09T08:13:49.000Z",
+    "updated": "2025-12-09T08:13:49.422Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 5c - Planetarium",
+    "title": "Ausflug 5c - Planetarium",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjQ0dm44c2I1bzc2MnFwdGRjODhlaXJiZXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-12-16T08:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-12-16T13:30:00+01:00"
+    },
+    "created": "2025-12-09T08:00:19.000Z",
+    "updated": "2025-12-09T08:00:19.369Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Ausflug 5a - Planetarium",
+    "title": "Ausflug 5a - Planetarium",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NHFqNzFldXVvdnQyY2Y4cGZxMXJ2bjFsZ2QgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-12-16T08:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-12-16T13:30:00+01:00"
+    },
+    "created": "2025-12-09T07:59:21.000Z",
+    "updated": "2025-12-09T07:59:22.044Z"
   }
 ]
