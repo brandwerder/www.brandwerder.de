@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "Ausflug A9 - Bibliothek",
+    "title": "Ausflug A9 - Bibliothek",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NXE3dm1tZTR1cWY0N2tmMmlvZjc2bDM3anYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2025-12-15T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2025-12-15T10:30:00+01:00"
+    },
+    "created": "2025-12-12T10:28:39.000Z",
+    "updated": "2025-12-12T10:28:39.605Z"
+  },
+  {
+    "image_path": null,
     "alt": "Ausflug A3 - Bibliothek ",
     "title": "Ausflug A3 - Bibliothek ",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2025-12-09T08:00:19.000Z",
     "updated": "2025-12-09T08:00:19.369Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Ausflug 5a - Planetarium",
-    "title": "Ausflug 5a - Planetarium",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHFqNzFldXVvdnQyY2Y4cGZxMXJ2bjFsZ2QgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2025-12-16T08:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2025-12-16T13:30:00+01:00"
-    },
-    "created": "2025-12-09T07:59:21.000Z",
-    "updated": "2025-12-09T07:59:22.044Z"
   }
 ]
