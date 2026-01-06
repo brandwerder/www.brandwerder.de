@@ -1,19 +1,70 @@
 [
   {
     "image_path": null,
-    "alt": "Letzter Schultag vor den Weihnachtsferien (nach Stundenplan)",
-    "title": "Letzter Schultag vor den Weihnachtsferien (nach Stundenplan)",
+    "alt": "A1 Stadtbücherei Sta + Schi",
+    "title": "A1 Stadtbücherei Sta + Schi",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=dThjcGM2NjZicGxqN3VzZmg4bnVqOHFkbmcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=M3JvY2JjM2NrMmVlaTZxZDA3dmtkc2xtNWggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2025-12-19",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-01-07T10:00:00+01:00"
     },
     "end": {
-      "date": "2025-12-20",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-01-07T13:30:00+01:00"
     },
-    "created": "2025-12-11T19:23:38.000Z",
-    "updated": "2025-12-11T19:23:38.818Z"
+    "created": "2026-01-05T11:27:04.000Z",
+    "updated": "2026-01-05T11:27:04.475Z"
+  },
+  {
+    "image_path": null,
+    "alt": "6a - Mary-Poppins-GS Or+Dom",
+    "title": "6a - Mary-Poppins-GS Or+Dom",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjkxczBybnA4c3Y5NjJ2MnBibDk2aTU2NGcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T14:00:00+01:00"
+    },
+    "created": "2026-01-05T11:32:09.000Z",
+    "updated": "2026-01-05T11:32:09.816Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A3 Bibliothek Blu+Kun",
+    "title": "A3 Bibliothek Blu+Kun",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MzhpanB0aGRnODBsbXU5OGxvbmtsN2JtbGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-02-19T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-02-19T10:30:00+01:00"
+    },
+    "created": "2026-01-05T11:29:13.000Z",
+    "updated": "2026-01-05T11:30:25.726Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4b - Verkehrsschule - E + Col",
+    "title": "4b - Verkehrsschule - E + Col",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NW01dG03aWlnNmQ1aDBzODQ1aTFla2dxcmsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-10T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-10T13:45:00+01:00"
+    },
+    "created": "2026-01-05T11:33:25.000Z",
+    "updated": "2026-01-05T11:33:25.685Z"
   }
 ]
