@@ -1,20 +1,37 @@
 [
   {
     "image_path": null,
-    "alt": "A2 - Besuch Bibliothek (Ba/Li)",
-    "title": "A2 - Besuch Bibliothek (Ba/Li)",
+    "alt": "A5 - Besuch Kunstbastion Zitadelle",
+    "title": "A5 - Besuch Kunstbastion Zitadelle",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NjhxNXA3cjFhdGY3ZDg1bG5wajdya3Y3aXUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=M3NvNGgyYzByanJrOHFwNm5oZ3Jic3ZrdDcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-01-16T10:00:00+01:00"
+      "date_time": "2026-01-19T08:00:00+01:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-01-16T13:30:00+01:00"
+      "date_time": "2026-01-19T13:30:00+01:00"
     },
-    "created": "2026-01-15T06:49:51.000Z",
-    "updated": "2026-01-15T06:49:52.110Z"
+    "created": "2026-01-16T06:49:18.000Z",
+    "updated": "2026-01-16T06:49:18.563Z"
+  },
+  {
+    "image_path": null,
+    "alt": "5b - Besuch Eissporthalle P09",
+    "title": "5b - Besuch Eissporthalle P09",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MGQ1Z2Q5b2VhdGF2NDBqNzU4M3ZtM2FiZzggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-20T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-20T13:30:00+01:00"
+    },
+    "created": "2026-01-16T06:50:49.000Z",
+    "updated": "2026-01-16T06:50:49.790Z"
   },
   {
     "image_path": null,
@@ -32,6 +49,23 @@
     },
     "created": "2026-01-05T11:32:09.000Z",
     "updated": "2026-01-05T11:32:09.816Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Wandertag",
+    "title": "Wandertag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Z2UxOTI4ZWcyNGE4NGRqYWhoaWJlb20wZTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-01-27",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-01-28",
+      "date_time": null
+    },
+    "created": "2026-01-16T19:53:44.000Z",
+    "updated": "2026-01-16T19:53:44.972Z"
   },
   {
     "image_path": null,
