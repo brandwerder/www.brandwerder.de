@@ -35,6 +35,40 @@
   },
   {
     "image_path": null,
+    "alt": "2. FK Nawi",
+    "title": "2. FK Nawi",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=OGxjODc4a3FnaDhrbHNwaGY3YWM3NGtiNjQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-20T15:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-20T16:00:00+01:00"
+    },
+    "created": "2026-01-17T09:44:32.000Z",
+    "updated": "2026-01-17T09:44:32.584Z"
+  },
+  {
+    "image_path": null,
+    "alt": "2. FK Englisch",
+    "title": "2. FK Englisch",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=dG9jMGltY2V2Mjh1dG1wamtkdDdmOGswZ2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-20T15:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-20T16:00:00+01:00"
+    },
+    "created": "2026-01-17T09:44:53.000Z",
+    "updated": "2026-01-17T09:44:53.363Z"
+  },
+  {
+    "image_path": null,
     "alt": "6a - Mary-Poppins-GS Or+Dom",
     "title": "6a - Mary-Poppins-GS Or+Dom",
     "excerpt": null,
@@ -66,39 +100,5 @@
     },
     "created": "2026-01-16T19:53:44.000Z",
     "updated": "2026-01-16T19:53:44.972Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A3 Bibliothek Blu+Kun",
-    "title": "A3 Bibliothek Blu+Kun",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MzhpanB0aGRnODBsbXU5OGxvbmtsN2JtbGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-02-19T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-02-19T10:30:00+01:00"
-    },
-    "created": "2026-01-05T11:29:13.000Z",
-    "updated": "2026-01-05T11:30:25.726Z"
-  },
-  {
-    "image_path": null,
-    "alt": "4b - Verkehrsschule - E + Col",
-    "title": "4b - Verkehrsschule - E + Col",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NW01dG03aWlnNmQ1aDBzODQ1aTFla2dxcmsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-03-10T10:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-03-10T13:45:00+01:00"
-    },
-    "created": "2026-01-05T11:33:25.000Z",
-    "updated": "2026-01-05T11:33:25.685Z"
   }
 ]
