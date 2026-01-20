@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A5 - Besuch Kunstbastion Zitadelle",
-    "title": "A5 - Besuch Kunstbastion Zitadelle",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M3NvNGgyYzByanJrOHFwNm5oZ3Jic3ZrdDcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-19T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-19T13:30:00+01:00"
-    },
-    "created": "2026-01-16T06:49:18.000Z",
-    "updated": "2026-01-16T06:49:18.563Z"
-  },
-  {
-    "image_path": null,
     "alt": "5b - Besuch Eissporthalle P09",
     "title": "5b - Besuch Eissporthalle P09",
     "excerpt": null,
@@ -69,36 +52,53 @@
   },
   {
     "image_path": null,
-    "alt": "6a - Mary-Poppins-GS Or+Dom",
-    "title": "6a - Mary-Poppins-GS Or+Dom",
+    "alt": "Kroko - 6b - 2. Std.",
+    "title": "Kroko - 6b - 2. Std.",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MjkxczBybnA4c3Y5NjJ2MnBibDk2aTU2NGcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=NHNqZmxlN3I0djFxdHIyN3N0cGxkczltNzMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-01-22T08:00:00+01:00"
+      "date_time": "2026-01-21T08:45:00+01:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-01-22T14:00:00+01:00"
+      "date_time": "2026-01-21T09:30:00+01:00"
     },
-    "created": "2026-01-05T11:32:09.000Z",
-    "updated": "2026-01-05T11:32:09.816Z"
+    "created": "2026-01-19T10:38:42.000Z",
+    "updated": "2026-01-19T10:38:42.887Z"
   },
   {
     "image_path": null,
-    "alt": "Wandertag",
-    "title": "Wandertag",
+    "alt": "Kroko - A5 - 3. Std.",
+    "title": "Kroko - A5 - 3. Std.",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Z2UxOTI4ZWcyNGE4NGRqYWhoaWJlb20wZTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=MmpxdjJvdjZmbTE0c21pbzQzdHFvbmllcWIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2026-01-27",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-01-21T10:00:00+01:00"
     },
     "end": {
-      "date": "2026-01-28",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-01-21T10:45:00+01:00"
     },
-    "created": "2026-01-16T19:53:44.000Z",
-    "updated": "2026-01-16T19:53:44.972Z"
+    "created": "2026-01-19T10:38:51.000Z",
+    "updated": "2026-01-19T10:38:52.132Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - 6a - 4. Std.",
+    "title": "Kroko - 6a - 4. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NWdwYTY2a2JlajE4dGhha2IyaHRxbDlkaDIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-21T10:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-21T11:30:00+01:00"
+    },
+    "created": "2026-01-19T10:39:01.000Z",
+    "updated": "2026-01-19T10:39:01.622Z"
   }
 ]
