@@ -1,57 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "5b - Besuch Eissporthalle P09",
-    "title": "5b - Besuch Eissporthalle P09",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGQ1Z2Q5b2VhdGF2NDBqNzU4M3ZtM2FiZzggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-20T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-20T13:30:00+01:00"
-    },
-    "created": "2026-01-16T06:50:49.000Z",
-    "updated": "2026-01-16T06:50:49.790Z"
-  },
-  {
-    "image_path": null,
-    "alt": "2. FK Nawi",
-    "title": "2. FK Nawi",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OGxjODc4a3FnaDhrbHNwaGY3YWM3NGtiNjQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-20T15:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-20T16:00:00+01:00"
-    },
-    "created": "2026-01-17T09:44:32.000Z",
-    "updated": "2026-01-17T09:44:32.584Z"
-  },
-  {
-    "image_path": null,
-    "alt": "2. FK Englisch",
-    "title": "2. FK Englisch",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=dG9jMGltY2V2Mjh1dG1wamtkdDdmOGswZ2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-20T15:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-20T16:00:00+01:00"
-    },
-    "created": "2026-01-17T09:44:53.000Z",
-    "updated": "2026-01-17T09:44:53.363Z"
-  },
-  {
-    "image_path": null,
     "alt": "Kroko - 6b - 2. Std.",
     "title": "Kroko - 6b - 2. Std.",
     "excerpt": null,
@@ -100,5 +49,56 @@
     },
     "created": "2026-01-19T10:39:01.000Z",
     "updated": "2026-01-19T10:39:01.622Z"
+  },
+  {
+    "image_path": null,
+    "alt": "6a - Mary-Poppins-GS Or+Dom",
+    "title": "6a - Mary-Poppins-GS Or+Dom",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjkxczBybnA4c3Y5NjJ2MnBibDk2aTU2NGcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T14:00:00+01:00"
+    },
+    "created": "2026-01-05T11:32:09.000Z",
+    "updated": "2026-01-05T11:32:09.816Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - 4a - 1. Std.",
+    "title": "Kroko - 4a - 1. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NnFvaGptdDlhZGF0djFyN3Q5aGYzMmNhbWkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T08:45:00+01:00"
+    },
+    "created": "2026-01-19T10:39:11.000Z",
+    "updated": "2026-01-19T10:39:11.792Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A4 - 2. Std.",
+    "title": "Kroko - A4 - 2. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=N2RvMzRiNDlkN2I0bmdwNXJma2c0b2tmZmogaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T08:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T09:30:00+01:00"
+    },
+    "created": "2026-01-19T10:39:24.000Z",
+    "updated": "2026-01-19T10:39:24.531Z"
   }
 ]
