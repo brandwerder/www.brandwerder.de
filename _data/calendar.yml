@@ -1,57 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Kroko - 6b - 2. Std.",
-    "title": "Kroko - 6b - 2. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHNqZmxlN3I0djFxdHIyN3N0cGxkczltNzMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-21T08:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-21T09:30:00+01:00"
-    },
-    "created": "2026-01-19T10:38:42.000Z",
-    "updated": "2026-01-19T10:38:42.887Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - A5 - 3. Std.",
-    "title": "Kroko - A5 - 3. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MmpxdjJvdjZmbTE0c21pbzQzdHFvbmllcWIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-21T10:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-21T10:45:00+01:00"
-    },
-    "created": "2026-01-19T10:38:51.000Z",
-    "updated": "2026-01-19T10:38:52.132Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - 6a - 4. Std.",
-    "title": "Kroko - 6a - 4. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NWdwYTY2a2JlajE4dGhha2IyaHRxbDlkaDIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-21T10:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-21T11:30:00+01:00"
-    },
-    "created": "2026-01-19T10:39:01.000Z",
-    "updated": "2026-01-19T10:39:01.622Z"
-  },
-  {
-    "image_path": null,
     "alt": "6a - Mary-Poppins-GS Or+Dom",
     "title": "6a - Mary-Poppins-GS Or+Dom",
     "excerpt": null,
@@ -100,5 +49,56 @@
     },
     "created": "2026-01-19T10:39:24.000Z",
     "updated": "2026-01-19T10:39:24.531Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - 5b - 3. Std.",
+    "title": "Kroko - 5b - 3. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NXN2M3VxYjBxNG91ZWhuZmE2Z2xydTAxN2ogaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T10:45:00+01:00"
+    },
+    "created": "2026-01-19T10:39:33.000Z",
+    "updated": "2026-01-19T10:39:33.986Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A1 - 4. Std.",
+    "title": "Kroko - A1 - 4. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NHZnZW0wajA3ZjY0bDh2NzI4dG5raDN2OTUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-22T10:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-22T11:30:00+01:00"
+    },
+    "created": "2026-01-19T10:39:43.000Z",
+    "updated": "2026-01-19T10:39:43.427Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - WiKo - 1. Std.",
+    "title": "Kroko - WiKo - 1. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjcyaW1lYzQ0N3VyZzh2ZzNmdjAzcjcydWsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-23T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-23T08:45:00+01:00"
+    },
+    "created": "2026-01-19T10:39:52.000Z",
+    "updated": "2026-01-19T10:39:52.697Z"
   }
 ]
