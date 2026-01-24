@@ -1,74 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Kroko - WiKo - 1. Std.",
-    "title": "Kroko - WiKo - 1. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MjcyaW1lYzQ0N3VyZzh2ZzNmdjAzcjcydWsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-23T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-23T08:45:00+01:00"
-    },
-    "created": "2026-01-19T10:39:52.000Z",
-    "updated": "2026-01-19T10:39:52.697Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - A6 - 2. Std.",
-    "title": "Kroko - A6 - 2. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NXU5MmdiNHA4dG9wMXQ4Njlldmhtc3NxOG4gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-23T08:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-23T09:30:00+01:00"
-    },
-    "created": "2026-01-19T10:40:00.000Z",
-    "updated": "2026-01-19T10:40:00.945Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - 5c - 3. Std.",
-    "title": "Kroko - 5c - 3. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M25ybjRyanVlcWUyamhtc2FwdGl0NGpzdjkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-23T10:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-23T10:45:00+01:00"
-    },
-    "created": "2026-01-19T10:40:10.000Z",
-    "updated": "2026-01-19T10:40:10.357Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - 6c - 4. Std.",
-    "title": "Kroko - 6c - 4. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M2ZkMjlmYXBndnBudjFwaGx2ZXZzMDk5cXEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-23T10:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-23T11:30:00+01:00"
-    },
-    "created": "2026-01-19T10:40:17.000Z",
-    "updated": "2026-01-19T10:40:18.095Z"
-  },
-  {
-    "image_path": null,
     "alt": "Kroko - 5a - 1. Std.",
     "title": "Kroko - 5a - 1. Std.",
     "excerpt": null,
@@ -100,5 +32,73 @@
     },
     "created": "2026-01-19T10:40:41.000Z",
     "updated": "2026-01-19T10:40:41.634Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A8 - 3. Std.",
+    "title": "Kroko - A8 - 3. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MTZ2a2FhbWJvamtmcGw0a21vdjNuamNtb3YgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-26T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-26T10:45:00+01:00"
+    },
+    "created": "2026-01-19T10:40:48.000Z",
+    "updated": "2026-01-19T10:40:48.804Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A2 - 4. Std.",
+    "title": "Kroko - A2 - 4. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjlqZG1tOHJuNGo3N2kwZ3FhbHI2bW1hcTkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-26T10:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-26T11:30:00+01:00"
+    },
+    "created": "2026-01-19T10:40:55.000Z",
+    "updated": "2026-01-19T10:40:55.898Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Wandertag",
+    "title": "Wandertag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Z2UxOTI4ZWcyNGE4NGRqYWhoaWJlb20wZTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-01-27",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-01-28",
+      "date_time": null
+    },
+    "created": "2026-01-16T19:53:44.000Z",
+    "updated": "2026-01-16T19:53:44.972Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - 4b - 2. Std.",
+    "title": "Kroko - 4b - 2. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDNsNWhvcHVzOHRlYjJrcjh1ZHRtaGcyZzMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-28T08:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-28T09:30:00+01:00"
+    },
+    "created": "2026-01-19T10:41:04.000Z",
+    "updated": "2026-01-19T10:41:04.493Z"
   }
 ]
