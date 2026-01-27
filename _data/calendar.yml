@@ -1,74 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Kroko - 5a - 1. Std.",
-    "title": "Kroko - 5a - 1. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGxrYjNmam1mMmszaXVnZzNrOXM3N3F1MzUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-26T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-26T08:45:00+01:00"
-    },
-    "created": "2026-01-19T10:40:31.000Z",
-    "updated": "2026-01-19T10:40:31.469Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - A7 - 2. Std.",
-    "title": "Kroko - A7 - 2. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NnBwNjV2Nmc1NHI0NGtpZGtsbHZvaHZiM3YgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-26T08:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-26T09:30:00+01:00"
-    },
-    "created": "2026-01-19T10:40:41.000Z",
-    "updated": "2026-01-19T10:40:41.634Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - A8 - 3. Std.",
-    "title": "Kroko - A8 - 3. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MTZ2a2FhbWJvamtmcGw0a21vdjNuamNtb3YgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-26T10:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-26T10:45:00+01:00"
-    },
-    "created": "2026-01-19T10:40:48.000Z",
-    "updated": "2026-01-19T10:40:48.804Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Kroko - A2 - 4. Std.",
-    "title": "Kroko - A2 - 4. Std.",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MjlqZG1tOHJuNGo3N2kwZ3FhbHI2bW1hcTkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-01-26T10:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-01-26T11:30:00+01:00"
-    },
-    "created": "2026-01-19T10:40:55.000Z",
-    "updated": "2026-01-19T10:40:55.898Z"
-  },
-  {
-    "image_path": null,
     "alt": "Wandertag",
     "title": "Wandertag",
     "excerpt": null,
@@ -100,5 +32,73 @@
     },
     "created": "2026-01-19T10:41:04.000Z",
     "updated": "2026-01-19T10:41:04.493Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A9 - 3. Std.",
+    "title": "Kroko - A9 - 3. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDVzZmRwMnR2Mm1hb25mb3NkNGswNmhvZmUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-28T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-28T10:45:00+01:00"
+    },
+    "created": "2026-01-19T10:41:15.000Z",
+    "updated": "2026-01-19T10:41:15.621Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Kroko - A3 - 4. Std.",
+    "title": "Kroko - A3 - 4. Std.",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MGs2b2YwMDNpbzJxaDVmbnYwY210NmdwNm8gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-01-28T10:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-01-28T11:30:00+01:00"
+    },
+    "created": "2026-01-19T10:41:23.000Z",
+    "updated": "2026-01-19T10:41:23.744Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Klasse 4c, Besuch: Ausstellung Polar Experience",
+    "title": "Klasse 4c, Besuch: Ausstellung Polar Experience",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Nm1vY2V1ZTFldTR1ZDFsNW90czkyMzFscWEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-02-12T08:30:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-02-12T13:30:00+01:00"
+    },
+    "created": "2026-01-22T09:29:18.000Z",
+    "updated": "2026-01-22T09:29:18.859Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A3 Bibliothek Blu+Kun",
+    "title": "A3 Bibliothek Blu+Kun",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MzhpanB0aGRnODBsbXU5OGxvbmtsN2JtbGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-02-19T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-02-19T10:30:00+01:00"
+    },
+    "created": "2026-01-05T11:29:13.000Z",
+    "updated": "2026-01-05T11:30:25.726Z"
   }
 ]
