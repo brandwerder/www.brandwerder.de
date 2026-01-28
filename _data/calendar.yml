@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Wandertag",
-    "title": "Wandertag",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Z2UxOTI4ZWcyNGE4NGRqYWhoaWJlb20wZTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-01-27",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-01-28",
-      "date_time": null
-    },
-    "created": "2026-01-16T19:53:44.000Z",
-    "updated": "2026-01-16T19:53:44.972Z"
-  },
-  {
-    "image_path": null,
     "alt": "Kroko - 4b - 2. Std.",
     "title": "Kroko - 4b - 2. Std.",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-01-05T11:29:13.000Z",
     "updated": "2026-01-05T11:30:25.726Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4b - Verkehrsschule - E + Col",
+    "title": "4b - Verkehrsschule - E + Col",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NW01dG03aWlnNmQ1aDBzODQ1aTFla2dxcmsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-10T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-10T13:45:00+01:00"
+    },
+    "created": "2026-01-05T11:33:25.000Z",
+    "updated": "2026-01-05T11:33:25.685Z"
   }
 ]
