@@ -18,6 +18,23 @@
   },
   {
     "image_path": null,
+    "alt": "Schulfasching 8:30 - 12:45 Uhr",
+    "title": "Schulfasching 8:30 - 12:45 Uhr",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=aGNxbnZwOTY0OWM5bmdlNGt2NGQwYjhobXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-02-17",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-02-18",
+      "date_time": null
+    },
+    "created": "2026-02-01T18:43:04.000Z",
+    "updated": "2026-02-01T18:43:04.935Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 Bibliothek Blu+Kun",
     "title": "A3 Bibliothek Blu+Kun",
     "excerpt": null,
