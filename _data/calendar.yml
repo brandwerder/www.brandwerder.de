@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Klasse A4, Besuch: Ausstellung Polar Experience",
-    "title": "Klasse A4, Besuch: Ausstellung Polar Experience",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Nm1vY2V1ZTFldTR1ZDFsNW90czkyMzFscWEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-02-12T08:30:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-02-12T13:30:00+01:00"
-    },
-    "created": "2026-01-22T09:29:18.000Z",
-    "updated": "2026-02-09T13:27:31.090Z"
-  },
-  {
-    "image_path": null,
     "alt": "A5 - Besuch Bücherei Heerstraße (Za + Hof)",
     "title": "A5 - Besuch Bücherei Heerstraße (Za + Hof)",
     "excerpt": null,
@@ -32,6 +15,23 @@
     },
     "created": "2026-02-09T08:03:32.000Z",
     "updated": "2026-02-09T08:03:32.673Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A6 - Besuch Grips Theater Hansaplatz (Ang)",
+    "title": "A6 - Besuch Grips Theater Hansaplatz (Ang)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MDg1bW41M2oyN2hldnZtcGJ0MjFhczRxbWcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-02-13T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-02-13T13:30:00+01:00"
+    },
+    "created": "2026-02-12T08:59:06.000Z",
+    "updated": "2026-02-12T08:59:06.379Z"
   },
   {
     "image_path": null,
