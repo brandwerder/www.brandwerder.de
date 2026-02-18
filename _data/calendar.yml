@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Schulfasching 8:30 - 12:45 Uhr",
-    "title": "Schulfasching 8:30 - 12:45 Uhr",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=aGNxbnZwOTY0OWM5bmdlNGt2NGQwYjhobXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-02-17",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-02-18",
-      "date_time": null
-    },
-    "created": "2026-02-01T18:43:04.000Z",
-    "updated": "2026-02-01T18:43:04.935Z"
-  },
-  {
-    "image_path": null,
     "alt": "A5 - Besuch Jonas Haus - Winter Angebot (Za + Hof)",
     "title": "A5 - Besuch Jonas Haus - Winter Angebot (Za + Hof)",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-02-12T08:57:02.000Z",
     "updated": "2026-02-12T08:57:02.928Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4b - Verkehrsschule - E + Col",
+    "title": "4b - Verkehrsschule - E + Col",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NW01dG03aWlnNmQ1aDBzODQ1aTFla2dxcmsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-10T10:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-10T14:15:00+01:00"
+    },
+    "created": "2026-01-05T11:33:25.000Z",
+    "updated": "2026-02-12T08:46:02.173Z"
   }
 ]
