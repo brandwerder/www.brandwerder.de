@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A5 - Besuch Jonas Haus - Winter Angebot (Za + Hof)",
-    "title": "A5 - Besuch Jonas Haus - Winter Angebot (Za + Hof)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MnVsMWdrcXNwZm00Z240NDEzMTBwMW5qZWogaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-02-19T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-02-19T13:30:00+01:00"
-    },
-    "created": "2026-02-09T08:04:33.000Z",
-    "updated": "2026-02-09T08:04:33.533Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A3 Bibliothek Blu+Kun",
-    "title": "A3 Bibliothek Blu+Kun",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MzhpanB0aGRnODBsbXU5OGxvbmtsN2JtbGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-02-19T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-02-19T10:30:00+01:00"
-    },
-    "created": "2026-01-05T11:29:13.000Z",
-    "updated": "2026-01-05T11:30:25.726Z"
-  },
-  {
-    "image_path": null,
     "alt": "A6 - Besuch Mathe-Theater; Ort: Ev. Gemeindehaus Staaken",
     "title": "A6 - Besuch Mathe-Theater; Ort: Ev. Gemeindehaus Staaken",
     "excerpt": null,
@@ -100,5 +66,22 @@
     },
     "created": "2026-01-05T11:33:25.000Z",
     "updated": "2026-02-12T08:46:02.173Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
+    "title": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MHNkM241c2lnZDMxdHEwZXFuNGhsYWR0NHQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-27T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-27T13:30:00+02:00"
+    },
+    "created": "2026-02-12T08:42:43.000Z",
+    "updated": "2026-02-12T08:42:43.816Z"
   }
 ]
