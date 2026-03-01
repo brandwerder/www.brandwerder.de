@@ -66,5 +66,39 @@
     },
     "created": "2026-02-12T08:42:43.000Z",
     "updated": "2026-02-12T08:42:43.816Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
+    "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=bG05M2h1cDU1aHB0bTZta2l1NWk4Y2hyb2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-05-07",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-05-08",
+      "date_time": null
+    },
+    "created": "2026-02-28T11:12:12.000Z",
+    "updated": "2026-02-28T11:12:12.389Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-07-03",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-07-04",
+      "date_time": null
+    },
+    "created": "2026-02-28T11:11:01.000Z",
+    "updated": "2026-02-28T11:11:01.684Z"
   }
 ]
