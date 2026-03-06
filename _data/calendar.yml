@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "A9 - Besuch Kunstbastion Zitadelle",
+    "title": "A9 - Besuch Kunstbastion Zitadelle",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NzEyc2tvdG8wbDU0YmsyNG9sOHBvN2lxcDkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-10T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-10T13:30:00+01:00"
+    },
+    "created": "2026-03-05T12:23:46.000Z",
+    "updated": "2026-03-05T12:23:47.137Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 - Besuch Staakentreff ",
     "title": "A3 - Besuch Staakentreff ",
     "excerpt": null,
@@ -35,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "A2 - Besuch Jonas Haus",
+    "title": "A2 - Besuch Jonas Haus",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NTJkOTA1NzVpMHJhOWlkNzE4dm5jbTg5czUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-13T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-13T13:00:00+01:00"
+    },
+    "created": "2026-03-05T12:22:29.000Z",
+    "updated": "2026-03-05T12:22:29.701Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 - Besuch Bibliothek Obstallee",
     "title": "A3 - Besuch Bibliothek Obstallee",
     "excerpt": null,
@@ -66,39 +100,5 @@
     },
     "created": "2026-02-12T08:42:43.000Z",
     "updated": "2026-02-12T08:42:43.816Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=bG05M2h1cDU1aHB0bTZta2l1NWk4Y2hyb2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-05-07",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-05-08",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:12:12.000Z",
-    "updated": "2026-02-28T11:12:12.389Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-07-03",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-07-04",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:11:01.000Z",
-    "updated": "2026-02-28T11:11:01.684Z"
   }
 ]
