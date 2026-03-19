@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "4b - Besuch Jugendverkehrsschule ",
+    "title": "4b - Besuch Jugendverkehrsschule ",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjMya2dnMThpbG9nNzZvYTNndjBrcXFxN28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-23T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-23T13:00:00+01:00"
+    },
+    "created": "2026-03-18T12:11:43.000Z",
+    "updated": "2026-03-18T12:11:43.744Z"
+  },
+  {
+    "image_path": null,
     "alt": "Projekttage",
     "title": "Projekttage",
     "excerpt": null,
@@ -52,6 +69,23 @@
   },
   {
     "image_path": null,
+    "alt": "6b - Besuch Kunstbastion / Hahneberg",
+    "title": "6b - Besuch Kunstbastion / Hahneberg",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NXVrOWo0ZWs5YzNzOTBlb2piNmdjbXNiaTYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-27T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-27T13:30:00+02:00"
+    },
+    "created": "2026-03-18T11:28:25.000Z",
+    "updated": "2026-03-18T11:28:25.425Z"
+  },
+  {
+    "image_path": null,
     "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
     "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
     "excerpt": null,
@@ -66,39 +100,5 @@
     },
     "created": "2026-02-28T11:12:12.000Z",
     "updated": "2026-02-28T11:12:12.389Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-07-03",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-07-04",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:11:01.000Z",
-    "updated": "2026-02-28T11:11:01.684Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Hort geschlossen!",
-    "title": "Hort geschlossen!",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Y3NnZm12NTRmMjdpOTEzcGphOGYxZHBkNTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-08-19T13:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-08-21T13:45:00+02:00"
-    },
-    "created": "2026-02-28T11:18:00.000Z",
-    "updated": "2026-02-28T11:18:00.538Z"
   }
 ]
