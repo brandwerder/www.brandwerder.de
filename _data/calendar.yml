@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "A1 - Besuch Zoo",
+    "title": "A1 - Besuch Zoo",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MThoM3NxaDZnbDBhbmh2bDQzYTNkOWk4aGUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-03-20T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-03-20T13:30:00+01:00"
+    },
+    "created": "2026-03-19T08:34:34.000Z",
+    "updated": "2026-03-19T08:34:34.158Z"
+  },
+  {
+    "image_path": null,
     "alt": "4b - Besuch Jugendverkehrsschule ",
     "title": "4b - Besuch Jugendverkehrsschule ",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-03-18T11:28:25.000Z",
     "updated": "2026-03-18T11:28:25.425Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=bG05M2h1cDU1aHB0bTZta2l1NWk4Y2hyb2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-05-07",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-05-08",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:12:12.000Z",
-    "updated": "2026-02-28T11:12:12.389Z"
   }
 ]
