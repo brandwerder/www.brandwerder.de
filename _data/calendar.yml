@@ -52,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "Elternaktionstag",
+    "title": "Elternaktionstag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=YXE2YmY3ODIwYm1rMDVjbHZzMWcwbThnZW8gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-25T10:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-25T14:00:00+02:00"
+    },
+    "created": "2026-03-22T08:51:24.000Z",
+    "updated": "2026-03-22T08:51:24.589Z"
+  },
+  {
+    "image_path": null,
     "alt": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
     "title": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-03-18T11:28:25.000Z",
     "updated": "2026-03-18T11:28:25.425Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=bG05M2h1cDU1aHB0bTZta2l1NWk4Y2hyb2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-05-07",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-05-08",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:12:12.000Z",
-    "updated": "2026-02-28T11:12:12.389Z"
   }
 ]
