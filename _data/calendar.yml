@@ -1,20 +1,20 @@
 [
   {
     "image_path": null,
-    "alt": "Projekttage",
-    "title": "Projekttage",
+    "alt": "A8 - Besuch Bücherei/Park",
+    "title": "A8 - Besuch Bücherei/Park",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NGtqdTJvZjVhZ2Q4bzJpZG5xZmpwcjJzdXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=NmFzcW05cWU1OHFoNjNmMTAxNm9lb2pmc3UgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2026-03-24",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-03-27T08:00:00+01:00"
     },
     "end": {
-      "date": "2026-03-27",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-03-27T13:00:00+01:00"
     },
-    "created": "2026-03-10T04:30:41.000Z",
-    "updated": "2026-03-10T04:30:41.756Z"
+    "created": "2026-03-26T08:23:47.000Z",
+    "updated": "2026-03-26T08:23:47.371Z"
   },
   {
     "image_path": null,
