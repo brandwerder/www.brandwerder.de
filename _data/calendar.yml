@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "5b - Besuch: Neues Museum (Ägyptische Ausstellung)",
-    "title": "5b - Besuch: Neues Museum (Ägyptische Ausstellung)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M2RxazIxZnBpNnU5NmxvNmY5NXN2bW02dHAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-24T08:45:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-24T14:15:00+02:00"
-    },
-    "created": "2026-04-17T09:32:57.000Z",
-    "updated": "2026-04-17T09:32:57.732Z"
-  },
-  {
-    "image_path": null,
-    "alt": "6c - Besuch Spielplatz am Cosmarweg",
-    "title": "6c - Besuch Spielplatz am Cosmarweg",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=N2ZybTdqcGQ4ZnFkOXRsbjFjYjE3cWt0ZzIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-24T10:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-24T12:45:00+02:00"
-    },
-    "created": "2026-04-22T07:51:23.000Z",
-    "updated": "2026-04-22T07:51:23.857Z"
-  },
-  {
-    "image_path": null,
     "alt": "Elternaktionstag",
     "title": "Elternaktionstag",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-04-17T06:54:31.000Z",
     "updated": "2026-04-17T06:54:31.321Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A8 - Besuch Zoo Berlin",
+    "title": "A8 - Besuch Zoo Berlin",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=M2RncWl0OGJhY3ZndGR2NWgwdXFzNXV2YXAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-28T07:50:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-28T13:30:00+02:00"
+    },
+    "created": "2026-04-17T06:53:07.000Z",
+    "updated": "2026-04-17T06:53:08.132Z"
+  },
+  {
+    "image_path": null,
+    "alt": "5c - Besuch Zoo Berlin ",
+    "title": "5c - Besuch Zoo Berlin ",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NmZwbXQwdWtvNnNnMDl1Nzk0OGMxYnFrbjUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-28T07:50:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-28T13:30:00+02:00"
+    },
+    "created": "2026-04-17T06:53:53.000Z",
+    "updated": "2026-04-17T06:53:54.003Z"
   }
 ]
