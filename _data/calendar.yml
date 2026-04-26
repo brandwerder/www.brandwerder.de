@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Elternaktionstag",
-    "title": "Elternaktionstag",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=YXE2YmY3ODIwYm1rMDVjbHZzMWcwbThnZW8gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-25T10:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-25T14:00:00+02:00"
-    },
-    "created": "2026-03-22T08:51:24.000Z",
-    "updated": "2026-03-22T08:51:24.589Z"
-  },
-  {
-    "image_path": null,
     "alt": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
     "title": "4b - Besuch Klärwerk Ruhleben (E+Wei+Zizu)",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-04-17T06:53:53.000Z",
     "updated": "2026-04-17T06:53:54.003Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A9 - Besuch Fort Hahneberg",
+    "title": "A9 - Besuch Fort Hahneberg",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=M3AyMnEzOXJndmtxMzU1OGdhNmU5Nm9iMXIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-04-28T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-04-28T13:30:00+02:00"
+    },
+    "created": "2026-04-21T09:44:15.000Z",
+    "updated": "2026-04-21T09:44:15.350Z"
   }
 ]
