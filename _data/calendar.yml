@@ -1,71 +1,20 @@
 [
   {
     "image_path": null,
-    "alt": "5a - Besuch Zoo Berlin ",
-    "title": "5a - Besuch Zoo Berlin ",
+    "alt": "4b - Besuch Theater Tempelhofer Feld, Stück: \"Als die Schokolade vom Himmel fiel\"",
+    "title": "4b - Besuch Theater Tempelhofer Feld, Stück: \"Als die Schokolade vom Himmel fiel\"",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MWkyNWhwc3NkdjVmYnZ2aTI5NWU0Nmp2N28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=NzJkNTQ0am5pdWlkOTIycmgwM2hkMWwycTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-04-28T07:50:00+02:00"
+      "date_time": "2026-05-05T07:50:00+02:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-04-28T13:30:00+02:00"
+      "date_time": "2026-05-05T13:00:00+02:00"
     },
-    "created": "2026-04-17T06:54:31.000Z",
-    "updated": "2026-04-17T06:54:31.321Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A8 - Besuch Zoo Berlin",
-    "title": "A8 - Besuch Zoo Berlin",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M2RncWl0OGJhY3ZndGR2NWgwdXFzNXV2YXAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-28T07:50:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-28T13:30:00+02:00"
-    },
-    "created": "2026-04-17T06:53:07.000Z",
-    "updated": "2026-04-17T06:53:08.132Z"
-  },
-  {
-    "image_path": null,
-    "alt": "5c - Besuch Zoo Berlin ",
-    "title": "5c - Besuch Zoo Berlin ",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NmZwbXQwdWtvNnNnMDl1Nzk0OGMxYnFrbjUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-28T07:50:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-28T13:30:00+02:00"
-    },
-    "created": "2026-04-17T06:53:53.000Z",
-    "updated": "2026-04-17T06:53:54.003Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A9 - Besuch Fort Hahneberg",
-    "title": "A9 - Besuch Fort Hahneberg",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=M3AyMnEzOXJndmtxMzU1OGdhNmU5Nm9iMXIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-04-28T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-04-28T13:30:00+02:00"
-    },
-    "created": "2026-04-21T09:44:15.000Z",
-    "updated": "2026-04-21T09:44:15.350Z"
+    "created": "2026-04-28T09:50:27.000Z",
+    "updated": "2026-04-28T09:50:27.925Z"
   },
   {
     "image_path": null,
@@ -100,5 +49,56 @@
     },
     "created": "2026-02-28T11:12:12.000Z",
     "updated": "2026-02-28T11:12:12.389Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4. Gesamtkonferenz",
+    "title": "4. Gesamtkonferenz",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=ZWdpMGpyc2doOWxscTN1YmxsaGExYXNuZTQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-02T16:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-02T18:00:00+02:00"
+    },
+    "created": "2026-03-22T08:50:50.000Z",
+    "updated": "2026-03-22T08:50:50.990Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4b - Besuch von Jugendverkehrsschule (Prüfung)",
+    "title": "4b - Besuch von Jugendverkehrsschule (Prüfung)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjZxMDFzZjhpbDU1OGdsNWpyNHBuZHV1MGogaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-09T09:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-09T13:30:00+02:00"
+    },
+    "created": "2026-03-18T12:13:09.000Z",
+    "updated": "2026-03-18T12:13:09.197Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-07-03",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-07-04",
+      "date_time": null
+    },
+    "created": "2026-02-28T11:11:01.000Z",
+    "updated": "2026-02-28T11:11:01.684Z"
   }
 ]
