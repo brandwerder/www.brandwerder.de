@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A3 - Ausflug zum Hahneberg",
-    "title": "A3 - Ausflug zum Hahneberg",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NGpyYmcwZGgyOGg5MzVsdHFlaW9vZ21rMXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-05-05T07:45:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-05-05T13:30:00+02:00"
-    },
-    "created": "2026-05-04T12:37:06.000Z",
-    "updated": "2026-05-04T12:37:07.020Z"
-  },
-  {
-    "image_path": null,
-    "alt": "4b - Besuch Theater Tempelhofer Feld, Stück: \"Als die Schokolade vom Himmel fiel\"",
-    "title": "4b - Besuch Theater Tempelhofer Feld, Stück: \"Als die Schokolade vom Himmel fiel\"",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NzJkNTQ0am5pdWlkOTIycmgwM2hkMWwycTggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-05-05T07:50:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-05-05T13:00:00+02:00"
-    },
-    "created": "2026-04-28T09:50:27.000Z",
-    "updated": "2026-04-28T09:50:27.925Z"
-  },
-  {
-    "image_path": null,
     "alt": "6a / 6b / 6c - Besuch: Zahnärztlicher Dienst",
     "title": "6a / 6b / 6c - Besuch: Zahnärztlicher Dienst",
     "excerpt": null,
@@ -86,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "Bundesjugendspiele",
+    "title": "Bundesjugendspiele",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Nm1nNXA5Y2g2aDRyMHFvbHNydWltc2h1bGMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-05-29",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-05-30",
+      "date_time": null
+    },
+    "created": "2026-05-05T17:37:12.000Z",
+    "updated": "2026-05-05T17:37:13.073Z"
+  },
+  {
+    "image_path": null,
     "alt": "4. Gesamtkonferenz",
     "title": "4. Gesamtkonferenz",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-03-22T08:50:50.000Z",
     "updated": "2026-03-22T08:50:50.990Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A3 - Ausflug zum Staakentreff",
+    "title": "A3 - Ausflug zum Staakentreff",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MDVvaDUxZnFsaXBmZjFwcDUwYWkxZDJvc3YgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-03T08:45:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-03T12:45:00+02:00"
+    },
+    "created": "2026-05-04T12:42:07.000Z",
+    "updated": "2026-05-04T12:42:07.281Z"
   }
 ]
