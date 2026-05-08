@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "title": "Keine Schule: 2. Feedbacktag, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=bG05M2h1cDU1aHB0bTZta2l1NWk4Y2hyb2sgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-05-07",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-05-08",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:12:12.000Z",
-    "updated": "2026-02-28T11:12:12.389Z"
-  },
-  {
-    "image_path": null,
     "alt": "Bundesjugendspiele",
     "title": "Bundesjugendspiele",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-02-28T11:11:01.000Z",
     "updated": "2026-02-28T11:11:01.684Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Hort geschlossen!",
+    "title": "Hort geschlossen!",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Y3NnZm12NTRmMjdpOTEzcGphOGYxZHBkNTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-08-19T13:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-08-21T13:45:00+02:00"
+    },
+    "created": "2026-02-28T11:18:00.000Z",
+    "updated": "2026-02-28T11:18:00.538Z"
   }
 ]
