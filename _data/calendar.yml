@@ -52,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "A5 - Besuch Jonas Haus ",
+    "title": "A5 - Besuch Jonas Haus ",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NWs5dnNldjFvOWtldDY1OTRza2lwa2FhZmwgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-04T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-04T13:30:00+02:00"
+    },
+    "created": "2026-05-29T05:58:52.000Z",
+    "updated": "2026-05-29T05:58:52.843Z"
+  },
+  {
+    "image_path": null,
     "alt": "GEV",
     "title": "GEV",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-03-18T12:13:09.000Z",
     "updated": "2026-03-18T12:13:09.197Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-07-03",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-07-04",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:11:01.000Z",
-    "updated": "2026-02-28T11:11:01.684Z"
   }
 ]
