@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "4. Gesamtkonferenz",
-    "title": "4. Gesamtkonferenz",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=ZWdpMGpyc2doOWxscTN1YmxsaGExYXNuZTQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-06-02T16:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-06-02T18:00:00+02:00"
-    },
-    "created": "2026-03-22T08:50:50.000Z",
-    "updated": "2026-03-22T08:50:50.990Z"
-  },
-  {
-    "image_path": null,
     "alt": "A3 - Ausflug zum Staakentreff",
     "title": "A3 - Ausflug zum Staakentreff",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-05-31T11:38:33.000Z",
     "updated": "2026-05-31T11:38:34.110Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A7 - Besuch Harry-Potter-Spielplatz ",
+    "title": "A7 - Besuch Harry-Potter-Spielplatz ",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=M3NjdmFrdDRsOGhxdDZiazlzY2F2Ym1zaTYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-22T08:30:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-22T13:30:00+02:00"
+    },
+    "created": "2026-05-28T09:37:39.000Z",
+    "updated": "2026-05-28T09:37:39.740Z"
   }
 ]
