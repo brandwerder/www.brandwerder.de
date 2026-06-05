@@ -1,4 +1,11 @@
-Lesepaten an unserer Schule
+---
+
+title: "Lesepaten"
+permalink: /lesepaten/
+layout: single
+--------------
+
+# Lesepaten an unserer Schule
 
 Wir freuen uns sehr über die Unterstützung durch unsere Lesepaten!
 
