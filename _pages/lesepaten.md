@@ -1,6 +1,6 @@
 ---
 
-title: "#"
+title: ""
 permalink: /lesepaten/
 layout: single
 ---
