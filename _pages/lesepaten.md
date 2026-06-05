@@ -1,6 +1,6 @@
 
 title: "Lesepaten"
-permalink: /lesepaten.md/
+permalink: /lesepaten/
 layout: single
 --------------
 
