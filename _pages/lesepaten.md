@@ -1,8 +1,9 @@
+---
 
 title: "Lesepaten"
 permalink: /lesepaten/
 layout: single
----
+--------------
 
 # Lesepaten an unserer Schule
 
