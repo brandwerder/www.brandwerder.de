@@ -52,53 +52,53 @@
   },
   {
     "image_path": null,
-    "alt": "A3 - Besuch Kunstbastion",
-    "title": "A3 - Besuch Kunstbastion",
+    "alt": "5b - Besuch Südpark (Volleyballturnier) (Dau+M-D)",
+    "title": "5b - Besuch Südpark (Volleyballturnier) (Dau+M-D)",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NW8wdWdtOTZzdHBvZzl0dW4xMHFtZXFocHQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=MWp1dDhwaWk3OTFmZGRkMHM0a3ZhN2w0YTYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-07-01T08:00:00+02:00"
+      "date_time": "2026-06-23T08:00:00+02:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-07-01T13:00:00+02:00"
+      "date_time": "2026-06-23T13:30:00+02:00"
     },
-    "created": "2026-06-08T07:23:04.000Z",
-    "updated": "2026-06-08T07:23:05.069Z"
+    "created": "2026-06-08T10:42:16.000Z",
+    "updated": "2026-06-08T10:42:17.270Z"
   },
   {
     "image_path": null,
-    "alt": "A3 - Besuch Bibliothek Obstallee",
-    "title": "A3 - Besuch Bibliothek Obstallee",
+    "alt": "5b - Besuch Freibad Staaken Schwimmbad (Dau+M-D)",
+    "title": "5b - Besuch Freibad Staaken Schwimmbad (Dau+M-D)",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NTE2cGZiM242bWtoNjQ1ODY1b3M4ZmMzbHUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=N3NwNWRqcjdqNTQzM3VzdHA2Ymg1ODZpYWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-07-02T08:00:00+02:00"
+      "date_time": "2026-06-25T09:30:00+02:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-07-02T10:30:00+02:00"
+      "date_time": "2026-06-25T14:30:00+02:00"
     },
-    "created": "2026-06-08T07:21:03.000Z",
-    "updated": "2026-06-08T07:21:03.464Z"
+    "created": "2026-06-08T10:40:23.000Z",
+    "updated": "2026-06-08T10:40:23.466Z"
   },
   {
     "image_path": null,
-    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "alt": "A6 + 5b - Besuch Spielplatz Ungewitterweg (Verabschiedung) (Dau+Ang)",
+    "title": "A6 + 5b - Besuch Spielplatz Ungewitterweg (Verabschiedung) (Dau+Ang)",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=MTNtaDZnMXU2ZmgzNWV0aDYxbjUxMG5idjEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2026-07-03",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-06-30T08:00:00+02:00"
     },
     "end": {
-      "date": "2026-07-04",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-06-30T13:30:00+02:00"
     },
-    "created": "2026-02-28T11:11:01.000Z",
-    "updated": "2026-02-28T11:11:01.684Z"
+    "created": "2026-06-08T10:41:24.000Z",
+    "updated": "2026-06-08T10:41:24.727Z"
   }
 ]
