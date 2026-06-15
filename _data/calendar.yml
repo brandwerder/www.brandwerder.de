@@ -35,6 +35,23 @@
   },
   {
     "image_path": null,
+    "alt": "Elternabend für die neuen Sonnen (Schulanfänger/Schulanfängerinnen), OHNE KIND",
+    "title": "Elternabend für die neuen Sonnen (Schulanfänger/Schulanfängerinnen), OHNE KIND",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=N2wxcTduNmxsMmc3aWZrbGRqdm44NW52Z3MgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-23T17:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-23T17:45:00+02:00"
+    },
+    "created": "2026-06-14T07:24:37.000Z",
+    "updated": "2026-06-14T07:24:58.082Z"
+  },
+  {
+    "image_path": null,
     "alt": "Schulkonferenz",
     "title": "Schulkonferenz",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-06-08T07:21:03.000Z",
     "updated": "2026-06-08T07:21:03.464Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-07-03",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-07-04",
-      "date_time": null
-    },
-    "created": "2026-02-28T11:11:01.000Z",
-    "updated": "2026-02-28T11:11:01.684Z"
   }
 ]
