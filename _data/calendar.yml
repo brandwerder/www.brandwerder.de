@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Mottotag",
-    "title": "Mottotag",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=aXZvbHNzZm12OTN0Mm9qMWZxcGdxcjNzcXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-06-18",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-06-19",
-      "date_time": null
-    },
-    "created": "2026-05-31T11:38:33.000Z",
-    "updated": "2026-05-31T11:38:34.110Z"
-  },
-  {
-    "image_path": null,
     "alt": "A6 - Besuch Zauberspielplatz Kufsteiner Str. 68, 10825 Berlin",
     "title": "A6 - Besuch Zauberspielplatz Kufsteiner Str. 68, 10825 Berlin",
     "excerpt": null,
@@ -69,6 +52,23 @@
   },
   {
     "image_path": null,
+    "alt": "4a - Besuch Jugendverkehrsschule Borkzeile",
+    "title": "4a - Besuch Jugendverkehrsschule Borkzeile",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NjRscXJiNm83aGVlZjYwZWk2ZHRnczBzZzQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-06-23T11:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-06-23T13:45:00+02:00"
+    },
+    "created": "2026-06-19T06:54:27.000Z",
+    "updated": "2026-06-19T06:54:27.313Z"
+  },
+  {
+    "image_path": null,
     "alt": "Elternabend für die neuen Sonnen (Schulanfänger/Schulanfängerinnen), OHNE KIND",
     "title": "Elternabend für die neuen Sonnen (Schulanfänger/Schulanfängerinnen), OHNE KIND",
     "excerpt": null,
@@ -86,19 +86,19 @@
   },
   {
     "image_path": null,
-    "alt": "Schulkonferenz",
-    "title": "Schulkonferenz",
+    "alt": "5b - Besuch Freibad Staaken Schwimmbad",
+    "title": "5b - Besuch Freibad Staaken Schwimmbad",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHMxMnBtdnNvZDZtdHE3dmhqbXI4ZnB2bHMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=N2t2bHU2dHFhaTNybWZtcjBxbmlobmUzczcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
       "date": null,
-      "date_time": "2026-06-25T14:00:00+02:00"
+      "date_time": "2026-06-25T09:30:00+02:00"
     },
     "end": {
       "date": null,
-      "date_time": "2026-06-25T15:00:00+02:00"
+      "date_time": "2026-06-25T14:30:00+02:00"
     },
-    "created": "2026-06-13T01:47:31.000Z",
-    "updated": "2026-06-13T01:47:31.403Z"
+    "created": "2026-06-19T06:57:51.000Z",
+    "updated": "2026-06-19T06:57:52.023Z"
   }
 ]
