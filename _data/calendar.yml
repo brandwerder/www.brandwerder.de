@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "5b - Besuch Freibad Staaken Schwimmbad",
-    "title": "5b - Besuch Freibad Staaken Schwimmbad",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=N2t2bHU2dHFhaTNybWZtcjBxbmlobmUzczcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-06-25T09:30:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-06-25T14:30:00+02:00"
-    },
-    "created": "2026-06-19T06:57:51.000Z",
-    "updated": "2026-06-19T06:57:52.023Z"
-  },
-  {
-    "image_path": null,
-    "alt": "Schulkonferenz",
-    "title": "Schulkonferenz",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NHMxMnBtdnNvZDZtdHE3dmhqbXI4ZnB2bHMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-06-25T14:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-06-25T15:00:00+02:00"
-    },
-    "created": "2026-06-13T01:47:31.000Z",
-    "updated": "2026-06-13T01:47:31.403Z"
-  },
-  {
-    "image_path": null,
     "alt": "A3 - Besuch Wasserspielplatz Cosmarweg (Blu+Omar)",
     "title": "A3 - Besuch Wasserspielplatz Cosmarweg (Blu+Omar)",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-06-08T07:21:03.000Z",
     "updated": "2026-06-08T07:21:03.464Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=OWNyMDZlY3RvYzRlZTJlNmEwb3E5M3E3ajAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-07-03",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-07-04",
+      "date_time": null
+    },
+    "created": "2026-02-28T11:11:01.000Z",
+    "updated": "2026-02-28T11:11:01.684Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Unterrichtsschluss für alle um 12:45 Uhr",
+    "title": "Unterrichtsschluss für alle um 12:45 Uhr",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MWlwcXMzMWlzOW9nanAxN3FodDVvYmFtb3IgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-07-07",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-07-08",
+      "date_time": null
+    },
+    "created": "2026-06-12T07:22:06.000Z",
+    "updated": "2026-06-12T07:22:07.149Z"
   }
 ]
