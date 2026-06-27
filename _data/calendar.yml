@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A3 - Besuch Wasserspielplatz Cosmarweg (Blu+Omar)",
-    "title": "A3 - Besuch Wasserspielplatz Cosmarweg (Blu+Omar)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NjZhNDhrM3J0NzVjdDl0cjIzcW8wY3A5cXUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-06-26T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-06-26T11:30:00+02:00"
-    },
-    "created": "2026-06-24T05:54:37.000Z",
-    "updated": "2026-06-24T05:54:38.048Z"
-  },
-  {
-    "image_path": null,
     "alt": "5b + A6: Besuch Südpark Volleyballtunier ",
     "title": "5b + A6: Besuch Südpark Volleyballtunier ",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-06-12T07:22:06.000Z",
     "updated": "2026-06-12T07:22:07.149Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
+    "title": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MGgwMjZyOGlmYzUycG05NzVlMTI0dWltbGsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-07-07T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-07-07T12:45:00+02:00"
+    },
+    "created": "2026-06-08T10:39:15.000Z",
+    "updated": "2026-06-08T10:39:15.788Z"
   }
 ]
