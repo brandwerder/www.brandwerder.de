@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "A2 und A9 Spielplatz Wilmersdorf",
+    "title": "A2 und A9 Spielplatz Wilmersdorf",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=ZDNpNHFoanB1bGsxcjJtM281ZGxlMjBha28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-06-30",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-07-01",
+      "date_time": null
+    },
+    "created": "2026-06-30T04:49:56.000Z",
+    "updated": "2026-06-30T04:49:56.470Z"
+  },
+  {
+    "image_path": null,
     "alt": "5b + A6: Besuch Südpark Volleyballtunier ",
     "title": "5b + A6: Besuch Südpark Volleyballtunier ",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-06-12T07:22:06.000Z",
     "updated": "2026-06-12T07:22:07.149Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
-    "title": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGgwMjZyOGlmYzUycG05NzVlMTI0dWltbGsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-07-07T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-07-07T12:45:00+02:00"
-    },
-    "created": "2026-06-08T10:39:15.000Z",
-    "updated": "2026-06-08T10:39:15.788Z"
   }
 ]
