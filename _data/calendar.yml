@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A2 und A9 Spielplatz Wilmersdorf",
-    "title": "A2 und A9 Spielplatz Wilmersdorf",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=ZDNpNHFoanB1bGsxcjJtM281ZGxlMjBha28gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-06-30",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-07-01",
-      "date_time": null
-    },
-    "created": "2026-06-30T04:49:56.000Z",
-    "updated": "2026-06-30T04:49:56.470Z"
-  },
-  {
-    "image_path": null,
-    "alt": "5b + A6: Besuch Südpark Volleyballtunier ",
-    "title": "5b + A6: Besuch Südpark Volleyballtunier ",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MTY5b21lNWdjNGdpZmdzbGtvbDg0Y21jYWYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-06-30T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-06-30T13:30:00+02:00"
-    },
-    "created": "2026-06-16T12:06:19.000Z",
-    "updated": "2026-06-19T06:55:47.886Z"
-  },
-  {
-    "image_path": null,
     "alt": "A3 - Besuch Kunstbastion",
     "title": "A3 - Besuch Kunstbastion",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-06-12T07:22:06.000Z",
     "updated": "2026-06-12T07:22:07.149Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
+    "title": "A6 - Besuch Spielplatz Torweg (Parcours-Übungen)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MGgwMjZyOGlmYzUycG05NzVlMTI0dWltbGsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-07-07T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-07-07T12:45:00+02:00"
+    },
+    "created": "2026-06-08T10:39:15.000Z",
+    "updated": "2026-06-08T10:39:15.788Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Verabschiedung 6. Klassen",
+    "title": "Verabschiedung 6. Klassen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=bDVkM21iNWEyaWRkbTlxa3N2bDljMTRrOGMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-07-07T13:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-07-07T14:30:00+02:00"
+    },
+    "created": "2026-06-08T04:26:10.000Z",
+    "updated": "2026-06-08T04:26:10.784Z"
   }
 ]
