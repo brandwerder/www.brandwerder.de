@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A3 - Besuch Kunstbastion",
-    "title": "A3 - Besuch Kunstbastion",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NW8wdWdtOTZzdHBvZzl0dW4xMHFtZXFocHQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-07-01T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-07-01T13:00:00+02:00"
-    },
-    "created": "2026-06-08T07:23:04.000Z",
-    "updated": "2026-06-08T07:23:05.069Z"
-  },
-  {
-    "image_path": null,
     "alt": "A3 - Besuch Bibliothek Obstallee",
     "title": "A3 - Besuch Bibliothek Obstallee",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-06-08T04:26:10.000Z",
     "updated": "2026-06-08T04:26:10.784Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Hort geschlossen!",
+    "title": "Hort geschlossen!",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Y3NnZm12NTRmMjdpOTEzcGphOGYxZHBkNTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-08-19T13:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-08-21T13:45:00+02:00"
+    },
+    "created": "2026-02-28T11:18:00.000Z",
+    "updated": "2026-02-28T11:18:00.538Z"
   }
 ]
