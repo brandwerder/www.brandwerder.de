@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A3 - Besuch Bibliothek Obstallee",
-    "title": "A3 - Besuch Bibliothek Obstallee",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NTE2cGZiM242bWtoNjQ1ODY1b3M4ZmMzbHUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-07-02T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-07-02T10:30:00+02:00"
-    },
-    "created": "2026-06-08T07:21:03.000Z",
-    "updated": "2026-06-08T07:21:03.464Z"
-  },
-  {
-    "image_path": null,
     "alt": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
     "title": "Keine Schule: Studientag der Lehrkräfte, eFöB offen",
     "excerpt": null,
@@ -66,6 +49,23 @@
     },
     "created": "2026-06-08T10:39:15.000Z",
     "updated": "2026-06-08T10:39:15.788Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A8 - Besuch Spielplatz Lietzensee",
+    "title": "A8 - Besuch Spielplatz Lietzensee",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Nm9rMDY3aGlvN3ZncGdnZTdtb20ybGFxM2EgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-07-07T08:30:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-07-07T12:30:00+02:00"
+    },
+    "created": "2026-07-02T13:14:49.000Z",
+    "updated": "2026-07-02T13:14:49.737Z"
   },
   {
     "image_path": null,
