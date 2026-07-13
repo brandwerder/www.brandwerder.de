@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Ernennungsurkunde",
-    "title": "Ernennungsurkunde",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=ZzEwbXVqYm9uZWUycTVxdDZsYXYwMHRpbzggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-07-15T10:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-07-15T10:45:00+02:00"
-    },
-    "created": "2026-07-09T08:38:22.000Z",
-    "updated": "2026-07-09T08:38:22.956Z"
-  },
-  {
-    "image_path": null,
     "alt": "Hort geschlossen!",
     "title": "Hort geschlossen!",
     "excerpt": null,
@@ -32,6 +15,57 @@
     },
     "created": "2026-02-28T11:18:00.000Z",
     "updated": "2026-02-28T11:18:00.538Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
+    "title": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=YzBlMnR2MmhnMDh2amkxOWp0azQyYmk1dTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-08-24T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-08-28T12:45:00+02:00"
+    },
+    "created": "2026-07-12T08:37:27.000Z",
+    "updated": "2026-07-12T08:37:47.188Z"
+  },
+  {
+    "image_path": null,
+    "alt": "5a, 5b, 6a, 6b, 6c 8:00 bis 12:45 Unterricht am 1. Schultag",
+    "title": "5a, 5b, 6a, 6b, 6c 8:00 bis 12:45 Unterricht am 1. Schultag",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Z2dvNGwyMWpnZjU4MDlsNmZzY2JvcjVoNWcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-08-24T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-08-24T12:45:00+02:00"
+    },
+    "created": "2026-07-12T08:39:08.000Z",
+    "updated": "2026-07-12T08:39:09.150Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A1 - A9 8:00 bis 11:30 Uhr Unterricht",
+    "title": "A1 - A9 8:00 bis 11:30 Uhr Unterricht",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=czAyOHVlY2lkNjdxNGk1c25zOWNkdjM4ZWMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-08-24T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-08-28T11:30:00+02:00"
+    },
+    "created": "2026-07-12T08:36:43.000Z",
+    "updated": "2026-07-12T08:40:07.778Z"
   },
   {
     "image_path": null,
