@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Hort geschlossen!",
-    "title": "Hort geschlossen!",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Y3NnZm12NTRmMjdpOTEzcGphOGYxZHBkNTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-08-21T13:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-08-23T13:45:00+02:00"
-    },
-    "created": "2026-02-28T11:18:00.000Z",
-    "updated": "2026-08-19T06:27:06.688Z"
-  },
-  {
-    "image_path": null,
     "alt": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
     "title": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
     "excerpt": null,
@@ -66,6 +49,23 @@
     },
     "created": "2026-07-12T08:36:43.000Z",
     "updated": "2026-07-12T08:40:07.778Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Der Schulfotograf kommt in die Schule",
+    "title": "Der Schulfotograf kommt in die Schule",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NGlsbTE2OW9wZWhtOWExanRhNmlnYTRybmcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-09-07",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-09-09",
+      "date_time": null
+    },
+    "created": "2026-08-23T10:59:11.000Z",
+    "updated": "2026-08-23T10:59:11.756Z"
   },
   {
     "image_path": null,
