@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
-    "title": "4a, b, c 8:00 bis 12:45 Uhr Unterricht",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=YzBlMnR2MmhnMDh2amkxOWp0azQyYmk1dTAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-08-24T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-08-28T12:45:00+02:00"
-    },
-    "created": "2026-07-12T08:37:27.000Z",
-    "updated": "2026-07-12T08:37:47.188Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A1 - A9 8:00 bis 11:30 Uhr Unterricht",
-    "title": "A1 - A9 8:00 bis 11:30 Uhr Unterricht",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=czAyOHVlY2lkNjdxNGk1c25zOWNkdjM4ZWMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-08-24T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-08-28T11:30:00+02:00"
-    },
-    "created": "2026-07-12T08:36:43.000Z",
-    "updated": "2026-07-12T08:40:07.778Z"
-  },
-  {
-    "image_path": null,
     "alt": "Der Schulfotograf kommt in die Schule",
     "title": "Der Schulfotograf kommt in die Schule",
     "excerpt": null,
@@ -100,5 +66,22 @@
     },
     "created": "2026-08-20T08:06:09.000Z",
     "updated": "2026-08-20T08:06:10.081Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Oberschulmesse Rathaus Spandau",
+    "title": "Oberschulmesse Rathaus Spandau",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=ZXV2YzI3Zm43cnRjNWFpdTgzbmN1aGJydTQgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-15T15:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-15T18:00:00+02:00"
+    },
+    "created": "2026-07-05T09:25:12.000Z",
+    "updated": "2026-07-05T09:25:12.674Z"
   }
 ]
