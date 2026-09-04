@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "4c - JVS (danach Unterricht)",
-    "title": "4c - JVS (danach Unterricht)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MmU2azM2dnZ1YjN2am81aWJudnZwZWQ2bjIgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-03T09:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-03T11:00:00+02:00"
-    },
-    "created": "2026-09-02T08:32:27.000Z",
-    "updated": "2026-09-03T05:44:30.645Z"
-  },
-  {
-    "image_path": null,
-    "alt": "4b - JVS ",
-    "title": "4b - JVS ",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MDdoNTkxb2NnYzBzNjBucmVya2J2YThqbnMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-03T11:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-03T13:00:00+02:00"
-    },
-    "created": "2026-09-02T08:32:35.000Z",
-    "updated": "2026-09-03T05:44:14.285Z"
-  },
-  {
-    "image_path": null,
     "alt": "Der Schulfotograf kommt in die Schule",
     "title": "Der Schulfotograf kommt in die Schule",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-09-02T08:45:19.000Z",
     "updated": "2026-09-02T08:45:19.717Z"
+  },
+  {
+    "image_path": null,
+    "alt": "5a - Klassenfahrt (Die + Orth)",
+    "title": "5a - Klassenfahrt (Die + Orth)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=Nmd0bmh2c2pzdTA3bmxodDgzcDlzOG5lam0gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-09-14",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-09-19",
+      "date_time": null
+    },
+    "created": "2026-09-03T10:28:28.000Z",
+    "updated": "2026-09-03T10:28:29.240Z"
+  },
+  {
+    "image_path": null,
+    "alt": "zahnärztliche Untersuchung (1.-4. Stunde)",
+    "title": "zahnärztliche Untersuchung (1.-4. Stunde)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MTc2bmtyY2cwMWtsbDZyZDd1Zm9lNTduaGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-09-16",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-09-22",
+      "date_time": null
+    },
+    "created": "2026-08-26T09:29:21.000Z",
+    "updated": "2026-08-26T09:29:21.356Z"
   }
 ]
