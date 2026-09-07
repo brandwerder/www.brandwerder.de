@@ -69,6 +69,23 @@
   },
   {
     "image_path": null,
+    "alt": "4c - Besuch Gleisdreieck",
+    "title": "4c - Besuch Gleisdreieck",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDZzYmczYWlmcjNzZm5hNWRzNGZlcnZ0ZGYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-11T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-11T13:30:00+02:00"
+    },
+    "created": "2026-09-07T07:35:01.000Z",
+    "updated": "2026-09-07T07:35:01.801Z"
+  },
+  {
+    "image_path": null,
     "alt": "5a - Klassenfahrt (Die + Orth)",
     "title": "5a - Klassenfahrt (Die + Orth)",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-09-03T10:28:28.000Z",
     "updated": "2026-09-03T10:28:29.240Z"
-  },
-  {
-    "image_path": null,
-    "alt": "zahnärztliche Untersuchung (1.-4. Stunde)",
-    "title": "zahnärztliche Untersuchung (1.-4. Stunde)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MTc2bmtyY2cwMWtsbDZyZDd1Zm9lNTduaGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-09-16",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-09-22",
-      "date_time": null
-    },
-    "created": "2026-08-26T09:29:21.000Z",
-    "updated": "2026-08-26T09:29:21.356Z"
   }
 ]
