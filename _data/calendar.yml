@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Der Schulfotograf kommt in die Schule",
-    "title": "Der Schulfotograf kommt in die Schule",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NGlsbTE2OW9wZWhtOWExanRhNmlnYTRybmcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-09-07",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-09-09",
-      "date_time": null
-    },
-    "created": "2026-08-23T10:59:11.000Z",
-    "updated": "2026-08-23T10:59:11.756Z"
-  },
-  {
-    "image_path": null,
     "alt": "A6 - Erzähltheater Kathleen Rappelt - 2. Stunde in Aula",
     "title": "A6 - Erzähltheater Kathleen Rappelt - 2. Stunde in Aula",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-03T10:28:28.000Z",
     "updated": "2026-09-03T10:28:29.240Z"
+  },
+  {
+    "image_path": null,
+    "alt": "zahnärztliche Untersuchung (1.-4. Stunde)",
+    "title": "zahnärztliche Untersuchung (1.-4. Stunde)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MTc2bmtyY2cwMWtsbDZyZDd1Zm9lNTduaGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-09-16",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-09-22",
+      "date_time": null
+    },
+    "created": "2026-08-26T09:29:21.000Z",
+    "updated": "2026-08-26T09:29:21.356Z"
   }
 ]
