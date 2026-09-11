@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A1 - Erzähltheater Kathleen Rappolt- 3. Stunde in Aula",
-    "title": "A1 - Erzähltheater Kathleen Rappolt- 3. Stunde in Aula",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NDdvYnByOTZhOGMwcDhlOGZ0NzQ2OGtwYzBfMjAyNjA5MTBUMDgxNTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-10T10:15:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-10T10:55:00+02:00"
-    },
-    "created": "2026-09-02T08:45:12.000Z",
-    "updated": "2026-09-09T18:03:33.796Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A7 - Erzähltheater Kathleen Rappolt- 4. Stunde in Aula",
-    "title": "A7 - Erzähltheater Kathleen Rappolt- 4. Stunde in Aula",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MjA3YmlkZWVhZjNtMjR0ZmVrMmw3cWFha3JfMjAyNjA5MTBUMDg1NTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-10T10:55:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-10T11:35:00+02:00"
-    },
-    "created": "2026-09-02T08:45:19.000Z",
-    "updated": "2026-09-09T18:03:49.621Z"
-  },
-  {
-    "image_path": null,
     "alt": "4c - Besuch Gleisdreieck",
     "title": "4c - Besuch Gleisdreieck",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-09-02T08:45:03.000Z",
     "updated": "2026-09-09T18:03:13.717Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "title": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDdvYnByOTZhOGMwcDhlOGZ0NzQ2OGtwYzBfMjAyNjA5MTdUMDgxNTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-17T10:15:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-17T10:55:00+02:00"
+    },
+    "created": "2026-09-02T08:45:12.000Z",
+    "updated": "2026-09-09T18:03:33.796Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
+    "title": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjA3YmlkZWVhZjNtMjR0ZmVrMmw3cWFha3JfMjAyNjA5MTdUMDg1NTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-17T10:55:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-17T11:35:00+02:00"
+    },
+    "created": "2026-09-02T08:45:19.000Z",
+    "updated": "2026-09-09T18:03:49.621Z"
   }
 ]
