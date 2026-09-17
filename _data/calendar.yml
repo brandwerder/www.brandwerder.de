@@ -35,23 +35,6 @@
   },
   {
     "image_path": null,
-    "alt": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
-    "title": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MXVrbTkzNG5wNjlocW5qZzFlYm01ZjEyZGFfMjAyNjA5MTdUMDY0MDAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-17T08:40:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-17T09:20:00+02:00"
-    },
-    "created": "2026-09-02T08:45:03.000Z",
-    "updated": "2026-09-09T18:03:13.717Z"
-  },
-  {
-    "image_path": null,
     "alt": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
     "title": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-02T08:45:03.000Z",
     "updated": "2026-09-09T18:03:13.717Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "title": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDdvYnByOTZhOGMwcDhlOGZ0NzQ2OGtwYzBfMjAyNjA5MjRUMDgxNTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-24T10:15:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-24T10:55:00+02:00"
+    },
+    "created": "2026-09-02T08:45:12.000Z",
+    "updated": "2026-09-09T18:03:33.796Z"
   }
 ]
