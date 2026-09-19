@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "5a - Klassenfahrt (Die + Orth)",
-    "title": "5a - Klassenfahrt (Die + Orth)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=Nmd0bmh2c2pzdTA3bmxodDgzcDlzOG5lam0gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-09-14",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-09-19",
-      "date_time": null
-    },
-    "created": "2026-09-03T10:28:28.000Z",
-    "updated": "2026-09-03T10:28:29.240Z"
-  },
-  {
-    "image_path": null,
     "alt": "zahnärztliche Untersuchung (1.-4. Stunde)",
     "title": "zahnärztliche Untersuchung (1.-4. Stunde)",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-07-07T07:47:35.000Z",
     "updated": "2026-07-07T07:47:36.108Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
+    "title": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NnVhNzNtOXQzOGhwYWI1NWVvam9pcm5vb24gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-25T10:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-25T11:30:00+02:00"
+    },
+    "created": "2026-09-03T07:56:19.000Z",
+    "updated": "2026-09-03T07:56:19.731Z"
   }
 ]
