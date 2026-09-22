@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "zahnärztliche Untersuchung (1.-4. Stunde)",
-    "title": "zahnärztliche Untersuchung (1.-4. Stunde)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MTc2bmtyY2cwMWtsbDZyZDd1Zm9lNTduaGkgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-09-16",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-09-22",
-      "date_time": null
-    },
-    "created": "2026-08-26T09:29:21.000Z",
-    "updated": "2026-08-26T09:29:21.356Z"
-  },
-  {
-    "image_path": null,
     "alt": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
     "title": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-03T07:56:19.000Z",
     "updated": "2026-09-03T07:56:19.731Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Crosslauf der Spandauer Schulen",
+    "title": "Crosslauf der Spandauer Schulen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NXY1M29jMGc2NTdjam1lbHJsY2Q4czk3cXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-09-29",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-09-30",
+      "date_time": null
+    },
+    "created": "2026-09-06T17:34:45.000Z",
+    "updated": "2026-09-06T17:34:45.887Z"
   }
 ]
