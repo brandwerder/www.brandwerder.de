@@ -86,19 +86,19 @@
   },
   {
     "image_path": null,
-    "alt": "Crosslauf der Spandauer Schulen",
-    "title": "Crosslauf der Spandauer Schulen",
+    "alt": "A2 - Besuch Bibliothek",
+    "title": "A2 - Besuch Bibliothek",
     "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NXY1M29jMGc2NTdjam1lbHJsY2Q4czk3cXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "url": "https://www.google.com/calendar/event?eid=MGE3bzVvbDY5YnYzaW4zcmpubzE4ZTlzMzggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
     "start": {
-      "date": "2026-09-29",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-09-28T10:00:00+02:00"
     },
     "end": {
-      "date": "2026-09-30",
-      "date_time": null
+      "date": null,
+      "date_time": "2026-09-28T13:30:00+02:00"
     },
-    "created": "2026-09-06T17:34:45.000Z",
-    "updated": "2026-09-06T17:34:45.887Z"
+    "created": "2026-09-23T07:03:18.000Z",
+    "updated": "2026-09-23T07:04:24.776Z"
   }
 ]
