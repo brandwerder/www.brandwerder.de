@@ -1,57 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
-    "title": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NDdvYnByOTZhOGMwcDhlOGZ0NzQ2OGtwYzBfMjAyNjA5MjRUMDgxNTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-24T10:15:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-24T10:55:00+02:00"
-    },
-    "created": "2026-09-02T08:45:12.000Z",
-    "updated": "2026-09-09T18:03:33.796Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
-    "title": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MjA3YmlkZWVhZjNtMjR0ZmVrMmw3cWFha3JfMjAyNjA5MjRUMDg1NTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-24T10:55:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-24T11:35:00+02:00"
-    },
-    "created": "2026-09-02T08:45:19.000Z",
-    "updated": "2026-09-09T18:03:49.621Z"
-  },
-  {
-    "image_path": null,
-    "alt": "1. GEV",
-    "title": "1. GEV",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=N2MyOWx1aGZwNjY3c25xaGYzN3BqZDlxOWMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-24T17:30:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-24T19:00:00+02:00"
-    },
-    "created": "2026-07-07T07:47:35.000Z",
-    "updated": "2026-07-07T07:47:36.108Z"
-  },
-  {
-    "image_path": null,
     "alt": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
     "title": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
     "excerpt": null,
@@ -100,5 +49,56 @@
     },
     "created": "2026-09-02T08:36:23.000Z",
     "updated": "2026-09-02T08:36:24.031Z"
+  },
+  {
+    "image_path": null,
+    "alt": "6c - Besuch Bibliothek",
+    "title": "6c - Besuch Bibliothek",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NjJiZnU5YTBmaDhxMmYyZnVrZjNicG5vaXEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-29T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-29T13:00:00+02:00"
+    },
+    "created": "2026-09-02T08:36:32.000Z",
+    "updated": "2026-09-02T08:36:32.207Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A5 - Besuch Fort Hahneberg",
+    "title": "A5 - Besuch Fort Hahneberg",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MTFzdGFkaDJhbzEyY3FqNWhrbWhraTZ1cm0gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-09-30T10:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-09-30T13:30:00+02:00"
+    },
+    "created": "2026-09-23T07:04:15.000Z",
+    "updated": "2026-09-23T07:04:15.438Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
+    "title": "A6 - Erzähltheater Kathleen Rappolt - 2. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MXVrbTkzNG5wNjlocW5qZzFlYm01ZjEyZGFfMjAyNjEwMDFUMDY0MDAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-01T08:40:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-01T09:20:00+02:00"
+    },
+    "created": "2026-09-02T08:45:03.000Z",
+    "updated": "2026-09-09T18:03:13.717Z"
   }
 ]
