@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
-    "title": "Tag der offenen Tür (10:00 Uhr - 11:30 Uhr)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NnVhNzNtOXQzOGhwYWI1NWVvam9pcm5vb24gaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-25T10:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-25T11:30:00+02:00"
-    },
-    "created": "2026-09-03T07:56:19.000Z",
-    "updated": "2026-09-03T07:56:19.731Z"
-  },
-  {
-    "image_path": null,
     "alt": "A2 - Besuch Bibliothek",
     "title": "A2 - Besuch Bibliothek",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-02T08:45:03.000Z",
     "updated": "2026-09-09T18:03:13.717Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "title": "A1 - Erzähltheater Kathleen Rappelt - 3. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NDdvYnByOTZhOGMwcDhlOGZ0NzQ2OGtwYzBfMjAyNjEwMDFUMDgxNTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-01T10:15:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-01T10:55:00+02:00"
+    },
+    "created": "2026-09-02T08:45:12.000Z",
+    "updated": "2026-09-09T18:03:33.796Z"
   }
 ]
