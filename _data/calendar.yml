@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "A2 - Besuch Bibliothek",
-    "title": "A2 - Besuch Bibliothek",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGE3bzVvbDY5YnYzaW4zcmpubzE4ZTlzMzggaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-28T10:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-28T13:30:00+02:00"
-    },
-    "created": "2026-09-23T07:03:18.000Z",
-    "updated": "2026-09-23T07:04:24.776Z"
-  },
-  {
-    "image_path": null,
     "alt": "6b - Besuch Bibliothek",
     "title": "6b - Besuch Bibliothek",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-02T08:45:12.000Z",
     "updated": "2026-09-09T18:03:33.796Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
+    "title": "A7 - Erzähltheater Kathleen Rappelt - 4. Stunde in Aula",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MjA3YmlkZWVhZjNtMjR0ZmVrMmw3cWFha3JfMjAyNjEwMDFUMDg1NTAwWiBoZW04NzBmZmEyMW5rZjkxYThuMDVsbG1zc0Bn",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-01T10:55:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-01T11:35:00+02:00"
+    },
+    "created": "2026-09-02T08:45:19.000Z",
+    "updated": "2026-09-09T18:03:49.621Z"
   }
 ]
