@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "6b - Besuch Bibliothek",
-    "title": "6b - Besuch Bibliothek",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MDZuczJkZjJ2NTBzcWFwN3UwanYyb2U3dWsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-29T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-29T13:00:00+02:00"
-    },
-    "created": "2026-09-02T08:36:23.000Z",
-    "updated": "2026-09-02T08:36:24.031Z"
-  },
-  {
-    "image_path": null,
-    "alt": "6c - Besuch Bibliothek",
-    "title": "6c - Besuch Bibliothek",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NjJiZnU5YTBmaDhxMmYyZnVrZjNicG5vaXEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-09-29T08:00:00+02:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-09-29T13:00:00+02:00"
-    },
-    "created": "2026-09-02T08:36:32.000Z",
-    "updated": "2026-09-02T08:36:32.207Z"
-  },
-  {
-    "image_path": null,
     "alt": "A5 - Besuch Fort Hahneberg",
     "title": "A5 - Besuch Fort Hahneberg",
     "excerpt": null,
@@ -100,5 +66,39 @@
     },
     "created": "2026-09-02T08:45:19.000Z",
     "updated": "2026-09-09T18:03:49.621Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Crosslauf der Spandauer Schulen",
+    "title": "Crosslauf der Spandauer Schulen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NXY1M29jMGc2NTdjam1lbHJsY2Q4czk3cXMgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-10-02",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-10-03",
+      "date_time": null
+    },
+    "created": "2026-09-06T17:34:45.000Z",
+    "updated": "2026-09-23T18:57:40.569Z"
+  },
+  {
+    "image_path": null,
+    "alt": "A4 - Besuch Planetarium",
+    "title": "A4 - Besuch Planetarium",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MTZ0OXI4aXR2aDFjcTBtZjU5YTd2bmJpZ2QgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-02T07:45:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-02T13:15:00+02:00"
+    },
+    "created": "2026-09-07T07:36:30.000Z",
+    "updated": "2026-09-07T07:37:53.767Z"
   }
 ]
