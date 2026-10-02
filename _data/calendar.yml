@@ -69,6 +69,23 @@
   },
   {
     "image_path": null,
+    "alt": "6b - Besuch Bundestag (M-D + Orth)",
+    "title": "6b - Besuch Bundestag (M-D + Orth)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NGk5MDEzcGtucHM3cGlqNGV2NGpwa3BiamwgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-11-09T07:45:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-11-09T12:30:00+01:00"
+    },
+    "created": "2026-10-01T12:50:05.000Z",
+    "updated": "2026-10-01T12:50:29.419Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 - Paint your Style",
     "title": "A3 - Paint your Style",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-09-21T07:16:01.000Z",
     "updated": "2026-09-21T07:16:01.578Z"
-  },
-  {
-    "image_path": null,
-    "alt": "1. Lernentwicklungsgesräch (Kind+Elternteil), Kein Unterricht, BEB geöffnet",
-    "title": "1. Lernentwicklungsgesräch (Kind+Elternteil), Kein Unterricht, BEB geöffnet",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NXJqaWcycGszdjA4cmo4NWNwYWxicW40MTUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": "2026-12-01",
-      "date_time": null
-    },
-    "end": {
-      "date": "2026-12-02",
-      "date_time": null
-    },
-    "created": "2026-09-07T06:37:32.000Z",
-    "updated": "2026-09-07T06:37:32.346Z"
   }
 ]
