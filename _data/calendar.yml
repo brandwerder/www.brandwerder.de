@@ -1,6 +1,23 @@
 [
   {
     "image_path": null,
+    "alt": "A6 - Besuch Planetarium",
+    "title": "A6 - Besuch Planetarium",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NGpiN2g1Z2x2ZHNiMWVxZzRpZTk2OHZuaDcgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-10-15T08:00:00+02:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-10-15T13:00:00+02:00"
+    },
+    "created": "2026-10-15T06:04:22.000Z",
+    "updated": "2026-10-15T06:04:22.521Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 - Besuch Theater Zitadelle Spandau",
     "title": "A3 - Besuch Theater Zitadelle Spandau",
     "excerpt": null,
@@ -83,22 +100,5 @@
     },
     "created": "2026-09-07T06:37:32.000Z",
     "updated": "2026-09-07T06:37:32.346Z"
-  },
-  {
-    "image_path": null,
-    "alt": "A4 - Besuch Bibliothek Spandau",
-    "title": "A4 - Besuch Bibliothek Spandau",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=N20xMGFldXFudWw1N2NlbHUxZXF2aDAzaGUgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2027-01-07T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2027-01-07T13:30:00+01:00"
-    },
-    "created": "2026-09-07T07:37:37.000Z",
-    "updated": "2026-09-07T07:37:38.090Z"
   }
 ]
