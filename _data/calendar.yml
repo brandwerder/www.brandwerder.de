@@ -1,23 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "6b - Besuch Bundestag (M-D + Orth)",
-    "title": "6b - Besuch Bundestag (M-D + Orth)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=NGk5MDEzcGtucHM3cGlqNGV2NGpwa3BiamwgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-11-09T07:45:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-11-09T12:30:00+01:00"
-    },
-    "created": "2026-10-01T12:50:05.000Z",
-    "updated": "2026-10-01T12:50:29.419Z"
-  },
-  {
-    "image_path": null,
     "alt": "6a - Besuch Bundestag",
     "title": "6a - Besuch Bundestag",
     "excerpt": null,
@@ -49,6 +32,23 @@
     },
     "created": "2026-11-03T10:40:57.000Z",
     "updated": "2026-11-03T10:40:57.669Z"
+  },
+  {
+    "image_path": null,
+    "alt": "Personalversammlung: Kinder von A1, A3, A5, A6, A9, 4a, 5b bitte unmittelbar nach der 4. Stunde (11:35 Uhr) abholen",
+    "title": "Personalversammlung: Kinder von A1, A3, A5, A6, A9, 4a, 5b bitte unmittelbar nach der 4. Stunde (11:35 Uhr) abholen",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MXVraDNoNXFwbTl2aW04bHZva2g2Z2NxNzAgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": "2026-11-17",
+      "date_time": null
+    },
+    "end": {
+      "date": "2026-11-18",
+      "date_time": null
+    },
+    "created": "2026-11-10T09:55:00.000Z",
+    "updated": "2026-11-10T09:55:10.815Z"
   },
   {
     "image_path": null,
