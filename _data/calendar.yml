@@ -1,40 +1,6 @@
 [
   {
     "image_path": null,
-    "alt": "4a - Besuch Jugendverkehrsschule",
-    "title": "4a - Besuch Jugendverkehrsschule",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=N2tpaHJhYmszbzZtOGc5aXA2c2VwbnVkbDEgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-11-12T08:00:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-11-12T11:45:00+01:00"
-    },
-    "created": "2026-11-03T10:40:57.000Z",
-    "updated": "2026-11-03T10:40:57.669Z"
-  },
-  {
-    "image_path": null,
-    "alt": "4c - Besuch Jugendverkehrsschule (Zd+Rad)",
-    "title": "4c - Besuch Jugendverkehrsschule (Zd+Rad)",
-    "excerpt": null,
-    "url": "https://www.google.com/calendar/event?eid=MGxxaWRsN2JlbWJwMG81aWJpOHBjdHUyOGsgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
-    "start": {
-      "date": null,
-      "date_time": "2026-11-12T10:10:00+01:00"
-    },
-    "end": {
-      "date": null,
-      "date_time": "2026-11-12T13:30:00+01:00"
-    },
-    "created": "2026-11-10T11:37:07.000Z",
-    "updated": "2026-11-10T11:37:07.467Z"
-  },
-  {
-    "image_path": null,
     "alt": "Personalversammlung: Kinder von A1, A3, A5, A6, A9, 4a, 5b bitte unmittelbar nach der 4. Stunde (11:35 Uhr) abholen",
     "title": "Personalversammlung: Kinder von A1, A3, A5, A6, A9, 4a, 5b bitte unmittelbar nach der 4. Stunde (11:35 Uhr) abholen",
     "excerpt": null,
@@ -69,6 +35,23 @@
   },
   {
     "image_path": null,
+    "alt": "A5 - Besuch Bücherei Falkenhagener Feld (Zai+Hof)",
+    "title": "A5 - Besuch Bücherei Falkenhagener Feld (Zai+Hof)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=NnJ1ZGVxaHVndjUyc3NyZWtwbW81dmNzb3AgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-11-27T08:00:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-11-27T13:00:00+01:00"
+    },
+    "created": "2026-11-13T08:53:41.000Z",
+    "updated": "2026-11-13T08:53:41.985Z"
+  },
+  {
+    "image_path": null,
     "alt": "A3 - Paint your Style",
     "title": "A3 - Paint your Style",
     "excerpt": null,
@@ -100,5 +83,22 @@
     },
     "created": "2026-09-07T06:37:32.000Z",
     "updated": "2026-11-03T10:41:25.725Z"
+  },
+  {
+    "image_path": null,
+    "alt": "4c - Besuch Shift Hockey Spandau (Zd+Bez)",
+    "title": "4c - Besuch Shift Hockey Spandau (Zd+Bez)",
+    "excerpt": null,
+    "url": "https://www.google.com/calendar/event?eid=MHRkMmhuZTlydGgybTRiOTVzbDhwMjdpNHYgaGVtODcwZmZhMjFua2Y5MWE4bjA1bGxtc3NAZw",
+    "start": {
+      "date": null,
+      "date_time": "2026-12-02T08:20:00+01:00"
+    },
+    "end": {
+      "date": null,
+      "date_time": "2026-12-02T13:00:00+01:00"
+    },
+    "created": "2026-11-10T11:33:31.000Z",
+    "updated": "2026-11-10T11:33:31.868Z"
   }
 ]
